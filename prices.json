@@ -1,0 +1,3647 @@
+{
+ "as_of": "2026-10-30",
+ "currency": "CAD",
+ "source": "https://topfloorings.com",
+ "labor_per_sqft": {
+  "laminate": 1.5,
+  "spc": 1.5,
+  "engineered": 1.7,
+  "engineered_nail_glue": 2.8,
+  "hardwood": 2.0
+ },
+ "labor_addons": {
+  "removal_per_sqft": 1.5,
+  "baseboard_per_linear_ft": 2.8,
+  "condo_extra_per_sqft": 0.5
+ },
+ "labor_source": "https://topfloorings.com/pages/flooring-installation-in-toronto",
+ "products": [
+  {
+   "type": "engineered",
+   "title": "Top Floorings Maple Engineered Hardwood Flooring \u2013 Toffee | 4 1/4\" Wide | 7/16\" Thick",
+   "url": "https://topfloorings.com/products/top-floorings-maple-engineered-hardwood-toffee-4-25-wide-7-16-thick",
+   "price_per_box": 83.12,
+   "sqft_per_box": 28.76,
+   "price_per_sqft": 2.89,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "engineered",
+   "title": "Top Floorings Red Oak Engineered Hardwood Flooring \u2013 Pecan | 3\u00bd\" Wide | \u00bd\" Thick",
+   "url": "https://topfloorings.com/products/top-floorings-red-oak-engineered-hardwood-pecan-3-1-2-wide",
+   "price_per_box": 65.63,
+   "sqft_per_box": 18.75,
+   "price_per_sqft": 3.5,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "engineered",
+   "title": "Top Floorings Maple Engineered Hardwood Flooring \u2013 Natural | 3 1/2\" Wide | 9/16\" Thick",
+   "url": "https://topfloorings.com/products/top-floorings-maple-engineered-hardwood-natural-3-1-2-wide-9-16-thick",
+   "price_per_box": 92.27,
+   "sqft_per_box": 26.13,
+   "price_per_sqft": 3.53,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "engineered",
+   "title": "Top Floorings Maple Engineered Hardwood Flooring \u2013 Java | 3 1/2\" Wide | 9/16\" Thick",
+   "url": "https://topfloorings.com/products/top-floorings-maple-engineered-hardwood-java-3-1-2-wide-9-16-thick",
+   "price_per_box": 92.27,
+   "sqft_per_box": 26.13,
+   "price_per_sqft": 3.53,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "engineered",
+   "title": "Top Floorings Red Oak Engineered Hardwood Flooring \u2013 Natural | 4 3/4\" Wide | 5/8\" Thick",
+   "url": "https://topfloorings.com/products/top-floorings-red-oak-engineered-hardwood-natural-4-75-wide-5-8-thick",
+   "price_per_box": 83.12,
+   "sqft_per_box": 21.88,
+   "price_per_sqft": 3.8,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "engineered",
+   "title": "Bruce Calico Brown Handscraped Engineered Hardwood Flooring | 5\" Wide | 3/8\" Thick",
+   "url": "https://topfloorings.com/products/bruce-calico-brown-handscraped-engineered-hardwood-flooring-5-wide-3-8-thick",
+   "price_per_box": 95.76,
+   "sqft_per_box": 24.0,
+   "price_per_sqft": 3.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "engineered",
+   "title": "Top Floorings European Oak Engineered Hardwood Flooring \u2013 Highland Silver | 6.5\" Wide | 3/4\" Thick | Wire Brushed",
+   "url": "https://topfloorings.com/products/top-floorings-european-oak-engineered-highland-silver-6-5-wide",
+   "price_per_box": 80.76,
+   "sqft_per_box": 20.24,
+   "price_per_sqft": 3.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "engineered",
+   "title": "Top Floorings European Oak Engineered Hardwood Flooring \u2013 Verita | 6.5\" Wide | 3/4\" Thick | Wire Brushed",
+   "url": "https://topfloorings.com/products/top-floorings-european-oak-engineered-verita-6-5-wide",
+   "price_per_box": 80.76,
+   "sqft_per_box": 20.24,
+   "price_per_sqft": 3.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "engineered",
+   "title": "Top Floorings European Oak Engineered Hardwood Flooring \u2013 Silver Beige | 6.5\" Wide | 3/4\" Thick | Wire Brushed",
+   "url": "https://topfloorings.com/products/top-floorings-european-oak-engineered-silver-beige-6-5-wide",
+   "price_per_box": 80.76,
+   "sqft_per_box": 20.24,
+   "price_per_sqft": 3.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "engineered",
+   "title": "Top Floorings European Oak Engineered Hardwood Flooring \u2013 White Sand | 6.5\" Wide | 3/4\" Thick | Wire Brushed",
+   "url": "https://topfloorings.com/products/top-floorings-european-oak-engineered-white-sand-6-5-wide",
+   "price_per_box": 80.76,
+   "sqft_per_box": 20.24,
+   "price_per_sqft": 3.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "engineered",
+   "title": "Top Floorings European Oak Engineered Hardwood Flooring \u2013 Cocoa | 6.5\" Wide | 3/4\" Thick | Wire Brushed",
+   "url": "https://topfloorings.com/products/top-floorings-european-oak-engineered-cocoa-6-5-wide",
+   "price_per_box": 80.76,
+   "sqft_per_box": 20.24,
+   "price_per_sqft": 3.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "engineered",
+   "title": "Top Floorings European Oak Engineered \u2013 Berkley (6.5\" Wide)",
+   "url": "https://topfloorings.com/products/top-floorings-european-oak-engineered-berkley-6-5-wide",
+   "price_per_box": 80.76,
+   "sqft_per_box": 20.24,
+   "price_per_sqft": 3.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "engineered",
+   "title": "European Oak Engineered Hardwood Flooring \u2013 Chai Tea | 6.5\" Wide Plank",
+   "url": "https://topfloorings.com/products/top-floorings-european-oak-engineered-chai-tea-6-5-wide",
+   "price_per_box": 80.76,
+   "sqft_per_box": 20.24,
+   "price_per_sqft": 3.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "engineered",
+   "title": "European Oak Engineered Hardwood Flooring \u2013 English Gray | 6.5\" Wide Plank",
+   "url": "https://topfloorings.com/products/top-floorings-european-oak-engineered-english-gray-6-5-wide",
+   "price_per_box": 80.76,
+   "sqft_per_box": 20.24,
+   "price_per_sqft": 3.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "engineered",
+   "title": "European Oak Engineered Hardwood Flooring \u2013 Slate | 6.5\" Wide Plank",
+   "url": "https://topfloorings.com/products/top-floorings-european-oak-engineered-slate-6-5-wide",
+   "price_per_box": 80.76,
+   "sqft_per_box": 20.24,
+   "price_per_sqft": 3.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "engineered",
+   "title": "Vidar Hazelnut White Oak Engineered Hardwood Flooring | 6\" x \u00be\"",
+   "url": "https://topfloorings.com/products/vidar-hazelnut-white-oak-engineered-hardwood-flooring-6-x-3-4",
+   "price_per_box": 93.15,
+   "sqft_per_box": 21.5,
+   "price_per_sqft": 4.33,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "engineered",
+   "title": "Top Floorings Hickory Engineered Hardwood Flooring \u2013 Kenya | 4 3/4\" Wide | 1/2\" Thick",
+   "url": "https://topfloorings.com/products/top-floorings-hickory-engineered-hardwood-kenya-4-75-wide",
+   "price_per_box": 110.67,
+   "sqft_per_box": 25.42,
+   "price_per_sqft": 4.35,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "engineered",
+   "title": "Top Floorings Hickory Engineered Hardwood Flooring \u2013 Grey Stone | 4 3/4\" Wide | 1/2\" Thick",
+   "url": "https://topfloorings.com/products/top-floorings-hickory-engineered-hardwood-grey-stone-4-75-wide",
+   "price_per_box": 110.67,
+   "sqft_per_box": 25.42,
+   "price_per_sqft": 4.35,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "engineered",
+   "title": "Top Floorings Sapele Engineered Hardwood Flooring \u2013 Charcoal | 4 3/4\" Wide | 1/2\" Thick",
+   "url": "https://topfloorings.com/products/top-floorings-sapele-engineered-hardwood-charcoal-4-75-wide",
+   "price_per_box": 110.67,
+   "sqft_per_box": 25.42,
+   "price_per_sqft": 4.35,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "engineered",
+   "title": "Top Floorings Sapele Engineered Hardwood Flooring \u2013 Bronze | 4 3/4\" Wide | 1/2\" Thick",
+   "url": "https://topfloorings.com/products/top-floorings-sapele-engineered-hardwood-bronze-4-75-wide",
+   "price_per_box": 110.67,
+   "sqft_per_box": 25.42,
+   "price_per_sqft": 4.35,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "engineered",
+   "title": "Top Floorings Maple Engineered Hardwood Flooring \u2013 Earth | 4 3/4\" Wide | 1/2\" Thick",
+   "url": "https://topfloorings.com/products/top-floorings-maple-engineered-hardwood-earth-4-75-wide",
+   "price_per_box": 110.67,
+   "sqft_per_box": 25.42,
+   "price_per_sqft": 4.35,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "engineered",
+   "title": "Top Floorings Maple Engineered Hardwood Flooring \u2013 Moka | 4 3/4\" Wide | 1/2\" Thick",
+   "url": "https://topfloorings.com/products/top-floorings-maple-engineered-hardwood-moka-4-75-wide",
+   "price_per_box": 110.67,
+   "sqft_per_box": 25.42,
+   "price_per_sqft": 4.35,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "engineered",
+   "title": "Top Floorings Maple Engineered Hardwood Flooring \u2013 Macchiato | 4 3/4\" Wide | 1/2\" Thick",
+   "url": "https://topfloorings.com/products/top-floorings-maple-engineered-hardwood-macchiato-4-75-wide",
+   "price_per_box": 110.67,
+   "sqft_per_box": 25.42,
+   "price_per_sqft": 4.35,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "engineered",
+   "title": "Top Floorings Red Oak Engineered Hardwood Flooring \u2013 Choco Brown | 4 3/4\" Wide | 1/2\" Thick",
+   "url": "https://topfloorings.com/products/top-floorings-red-oak-engineered-hardwood-choco-brown-4-75-wide",
+   "price_per_box": 110.67,
+   "sqft_per_box": 25.42,
+   "price_per_sqft": 4.35,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "engineered",
+   "title": "Top Floorings Red Oak Engineered Hardwood Flooring \u2013 Earth | 4 3/4\" Wide | 1/2\" Thick",
+   "url": "https://topfloorings.com/products/top-floorings-red-oak-engineered-hardwood-earth-4-75-wide",
+   "price_per_box": 110.67,
+   "sqft_per_box": 25.42,
+   "price_per_sqft": 4.35,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "engineered",
+   "title": "Top Floorings Red Oak Engineered Hardwood Flooring \u2013 Cobalt | 4 3/4\" Wide | 1/2\" Thick",
+   "url": "https://topfloorings.com/products/top-floorings-red-oak-engineered-hardwood-cobalt-4-75-wide",
+   "price_per_box": 110.67,
+   "sqft_per_box": 25.42,
+   "price_per_sqft": 4.35,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "engineered",
+   "title": "Top Floorings Red Oak Engineered Hardwood Flooring \u2013 Cap Code | 4 3/4\" Wide | 1/2\" Thick",
+   "url": "https://topfloorings.com/products/top-floorings-red-oak-engineered-hardwood-cap-code-4-75-wide",
+   "price_per_box": 110.67,
+   "sqft_per_box": 25.42,
+   "price_per_sqft": 4.35,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "engineered",
+   "title": "Top Floorings Red Oak Engineered Hardwood Flooring \u2013 Dark Chocolate | 4 3/4\" Wide | 1/2\" Thick",
+   "url": "https://topfloorings.com/products/top-floorings-red-oak-engineered-hardwood-dark-chocolate-4-75-wide",
+   "price_per_box": 110.67,
+   "sqft_per_box": 25.42,
+   "price_per_sqft": 4.35,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "engineered",
+   "title": "Top Floorings Red Oak Engineered Hardwood Flooring \u2013 Mocha | 4 3/4\" Wide | 1/2\" Thick",
+   "url": "https://topfloorings.com/products/top-floorings-red-oak-engineered-hardwood-mocha-4-75-wide",
+   "price_per_box": 110.67,
+   "sqft_per_box": 25.42,
+   "price_per_sqft": 4.35,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "engineered",
+   "title": "Top Floorings Red Oak Engineered Hardwood Flooring \u2013 Auburn | 4 3/4\" Wide | 1/2\" Thick",
+   "url": "https://topfloorings.com/products/top-floorings-red-oak-engineered-hardwood-auburn-4-75-wide",
+   "price_per_box": 110.67,
+   "sqft_per_box": 25.42,
+   "price_per_sqft": 4.35,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "engineered",
+   "title": "Top Floorings European Oak Engineered Hardwood Flooring \u2013 Mocha | 7.5\" Wide | 3/4\" Thick | 4mm Wear Layer | Wire Brushed",
+   "url": "https://topfloorings.com/products/european-oak-engineered-hardwood-flooring-mocha-7-wide-plank-4mm-wear-layer-wire-brushed-character-grade",
+   "price_per_box": 93.02,
+   "sqft_per_box": 19.42,
+   "price_per_sqft": 4.79,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "engineered",
+   "title": "Top Floorings European Oak Engineered Hardwood Flooring \u2013 Cappuccino | 7.5\" Wide | 3/4\" Thick | 4mm Wear Layer | Wire Brushed",
+   "url": "https://topfloorings.com/products/european-oak-engineered-hardwood-flooring-cappuccino-7-wide-plank-4mm-wear-layer-wire-brushed-character-grade",
+   "price_per_box": 93.02,
+   "sqft_per_box": 19.42,
+   "price_per_sqft": 4.79,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "engineered",
+   "title": "Top Floorings European Oak Engineered Hardwood Flooring \u2013 Pewter | 7.5\" Wide | 3/4\" Thick | 4mm Wear Layer | Wire Brushed",
+   "url": "https://topfloorings.com/products/european-oak-engineered-hardwood-flooring-pewter-7-wide-plank-4mm-wear-layer-wire-brushed-character-grade",
+   "price_per_box": 93.02,
+   "sqft_per_box": 19.42,
+   "price_per_sqft": 4.79,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "engineered",
+   "title": "European Oak Engineered Hardwood Flooring \u2013 Bourbon | 7\u00bd\" Wide Plank | 4mm Wear Layer | Wire Brushed Character Grade",
+   "url": "https://topfloorings.com/products/european-oak-engineered-hardwood-flooring-bourbon-7-wide-plank-4mm-wear-layer-wire-brushed-character-grade",
+   "price_per_box": 93.02,
+   "sqft_per_box": 19.42,
+   "price_per_sqft": 4.79,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "engineered",
+   "title": "Top Floorings European Oak Engineered Hardwood Flooring \u2013 Silver Grey | 7.5\" Wide | 3/4\" Thick | 4mm Wear Layer | Wire Brushed",
+   "url": "https://topfloorings.com/products/european-oak-engineered-hardwood-flooring-silver-grey-7-wide-plank-4mm-wear-layer-wire-brushed-character-grade",
+   "price_per_box": 93.02,
+   "sqft_per_box": 19.42,
+   "price_per_sqft": 4.79,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "engineered",
+   "title": "Top Floorings European Oak Engineered Hardwood Flooring \u2013 Cloud | 7.5\" Wide | 3/4\" Thick | 4mm Wear Layer | Wire Brushed",
+   "url": "https://topfloorings.com/products/european-oak-engineered-hardwood-flooring-cloud-7-wide-plank-4mm-wear-layer-wire-brushed-character-grade",
+   "price_per_box": 93.02,
+   "sqft_per_box": 19.42,
+   "price_per_sqft": 4.79,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "engineered",
+   "title": "Top Floorings European Oak Engineered Hardwood Flooring \u2013 Driftwood | 7.5\" Wide | 3/4\" Thick | 4mm Wear Layer | Wire Brushed",
+   "url": "https://topfloorings.com/products/european-oak-engineered-hardwood-flooring-driftwood-7-wide-plank-4mm-wear-layer-wire-brushed-character-grade",
+   "price_per_box": 93.02,
+   "sqft_per_box": 19.42,
+   "price_per_sqft": 4.79,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "engineered",
+   "title": "Top Floorings Oak Engineered Hardwood Flooring \u2013 New York | 6\" Wide | \u00be\" Thick",
+   "url": "https://topfloorings.com/products/top-floorings-oak-engineered-hardwood-new-york-6-wide-3-4-thick",
+   "price_per_box": 106.38,
+   "sqft_per_box": 21.32,
+   "price_per_sqft": 4.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "engineered",
+   "title": "Top Floorings Oak Engineered Hardwood Flooring \u2013 Pepper | 6\" Wide | 3/4\" Thick",
+   "url": "https://topfloorings.com/products/top-floorings-oak-engineered-hardwood-pepper-6-wide",
+   "price_per_box": 106.38,
+   "sqft_per_box": 21.32,
+   "price_per_sqft": 4.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "engineered",
+   "title": "Vidar English Manor White Oak Engineered Hardwood Flooring | 6\" x \u00be\"",
+   "url": "https://topfloorings.com/products/vidar-english-manor-white-oak-engineered-hardwood-flooring-6-x-3-4",
+   "price_per_box": 109.08,
+   "sqft_per_box": 21.5,
+   "price_per_sqft": 5.07,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "engineered",
+   "title": "Appalachian Alta Moda Borado White Oak Engineered Hardwood Flooring | 7\" x \u00be\" | Live Sawn Character",
+   "url": "https://topfloorings.com/products/appalachian-alta-moda-borado-white-oak-engineered-hardwood-flooring-7-x-3-4-live-sawn-character",
+   "price_per_box": 140.87,
+   "sqft_per_box": 17.25,
+   "price_per_sqft": 8.17,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "engineered",
+   "title": "PG Hardwood Flooring Modelloc Maple Sandbar Engineered Hardwood | 5 3/16\" Wide",
+   "url": "https://topfloorings.com/products/pg-hardwood-flooring-modelloc-maple-sandbar-engineered-hardwood-5-3-16-wide",
+   "price_per_box": 298.5,
+   "sqft_per_box": 34.0,
+   "price_per_sqft": 8.78,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Goodfellow Ash Copper Solid Hardwood Flooring | 3 1/2\" x 3/4\"",
+   "url": "https://topfloorings.com/products/goodfellow-ash-copper-solid-hardwood-flooring-3-1-2-x-3-4",
+   "price_per_box": 68.86,
+   "sqft_per_box": 18.66,
+   "price_per_sqft": 3.69,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "North Plank Select Red Oak Chocobrow Solid Hardwood Flooring | 3\u00bc\" x \u00be\"",
+   "url": "https://topfloorings.com/products/north-plank-select-red-oak-chocobrow-solid-hardwood-flooring-3-25-x-75",
+   "price_per_box": 77.33,
+   "sqft_per_box": 20.0,
+   "price_per_sqft": 3.87,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "North Plank Select Red Oak Coffee Solid Hardwood Flooring | 3\u00bc\u2033 x \u00be\u2033",
+   "url": "https://topfloorings.com/products/north-plank-select-red-oak-coffee-solid-hardwood-flooring-3-25-x-0-75",
+   "price_per_box": 77.33,
+   "sqft_per_box": 20.0,
+   "price_per_sqft": 3.87,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "North Plank Select Red Oak Gunstock Solid Hardwood Flooring | 3\u00bc\u2033 x \u00be\u2033",
+   "url": "https://topfloorings.com/products/north-plank-select-red-oak-gunstock-solid-hardwood-flooring-3-25-x-0-75",
+   "price_per_box": 77.33,
+   "sqft_per_box": 20.0,
+   "price_per_sqft": 3.87,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "North Plank Select Red Oak Natural Solid Hardwood Flooring | 3\u00bc\u2033 x \u00be\u2033",
+   "url": "https://topfloorings.com/products/north-plank-select-red-oak-natural-solid-hardwood-flooring-3-25-x-0-75",
+   "price_per_box": 77.33,
+   "sqft_per_box": 20.0,
+   "price_per_sqft": 3.87,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Top Floorings Red Oak Gunstock Solid Hardwood Flooring | 3\u00bc\" x \u00be\"",
+   "url": "https://topfloorings.com/products/top-floorings-red-oak-gunstock-solid-hardwood-flooring-3-1-4-x-3-4",
+   "price_per_box": 90.6,
+   "sqft_per_box": 22.75,
+   "price_per_sqft": 3.98,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Top Floorings Chocolate Oak Solid Hardwood Flooring | Country Grade | 3\u00bd\" x \u00be\"",
+   "url": "https://topfloorings.com/products/top-floorings-chocolate-oak-solid-hardwood-flooring-country-grade-3-5-x-3-4",
+   "price_per_box": 102.52,
+   "sqft_per_box": 24.41,
+   "price_per_sqft": 4.2,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Top Floorings Gunstock Oak Solid Hardwood Flooring | Select Grade | 3\u00bd\" x \u00be\"",
+   "url": "https://topfloorings.com/products/top-floorings-gunstock-oak-solid-hardwood-flooring-select-grade-3-5-x-3-4",
+   "price_per_box": 102.52,
+   "sqft_per_box": 24.41,
+   "price_per_sqft": 4.2,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Top Floorings Red Mahogany Oak Solid Hardwood Flooring | Select Grade | 3\u00bd\" x \u00be\"",
+   "url": "https://topfloorings.com/products/top-floorings-red-mahogany-oak-solid-hardwood-flooring-select-grade-3-5-x-3-4",
+   "price_per_box": 102.52,
+   "sqft_per_box": 24.41,
+   "price_per_sqft": 4.2,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Top Floorings Golden Oak Solid Hardwood Flooring | Select Grade | 3\u00bd\" x \u00be\"",
+   "url": "https://topfloorings.com/products/top-floorings-golden-oak-solid-hardwood-flooring-select-grade-3-5-x-3-4",
+   "price_per_box": 102.52,
+   "sqft_per_box": 24.41,
+   "price_per_sqft": 4.2,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Top Floorings Macchiato Oak Solid Hardwood Flooring | Select Grade | 3\u00bd\" x \u00be\"",
+   "url": "https://topfloorings.com/products/top-floorings-macchiato-oak-solid-hardwood-flooring-select-grade-3-5-x-3-4",
+   "price_per_box": 102.52,
+   "sqft_per_box": 24.41,
+   "price_per_sqft": 4.2,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Top Floorings Ebony Oak Solid Hardwood Flooring | Country Grade | 3\u00bd\" x \u00be\"",
+   "url": "https://topfloorings.com/products/top-floorings-ebony-oak-solid-hardwood-flooring-country-grade-3-5-x-3-4",
+   "price_per_box": 102.52,
+   "sqft_per_box": 24.41,
+   "price_per_sqft": 4.2,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Top Floorings Butterscotch Oak Solid Hardwood Flooring | Select Grade | 3\u00bd\" x \u00be\"",
+   "url": "https://topfloorings.com/products/top-floorings-butterscotch-oak-solid-hardwood-flooring-select-grade-3-5-x-3-4",
+   "price_per_box": 102.52,
+   "sqft_per_box": 24.41,
+   "price_per_sqft": 4.2,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Top Floorings Walnut Solid Hardwood Flooring | Select Grade | 3\u00bd\" x \u00be\"",
+   "url": "https://topfloorings.com/products/top-floorings-walnut-solid-hardwood-flooring-select-grade-3-5-x-3-4",
+   "price_per_box": 105.64,
+   "sqft_per_box": 24.41,
+   "price_per_sqft": 4.33,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Top Floorings Smoked Walnut Solid Hardwood Flooring | Select Grade | 3\u00bd\" x \u00be\"",
+   "url": "https://topfloorings.com/products/top-floorings-smoked-walnut-solid-hardwood-flooring-select-grade-3-5-x-3-4",
+   "price_per_box": 105.64,
+   "sqft_per_box": 24.41,
+   "price_per_sqft": 4.33,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Top Floorings Charcoal Red Oak Solid Hardwood Flooring | 3\u00bc\" x \u00be\"",
+   "url": "https://topfloorings.com/products/top-floorings-charcoal-red-oak-solid-hardwood-flooring-3-1-4-x-3-4",
+   "price_per_box": 87.61,
+   "sqft_per_box": 20.0,
+   "price_per_sqft": 4.38,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Top Floorings Chestnut Red Oak Solid Hardwood Flooring | 3\u00bc\" x \u00be\" | Select & Better Grade",
+   "url": "https://topfloorings.com/products/top-floorings-chestnut-red-oak-solid-hardwood-flooring-3-25-x-0-75-select-better",
+   "price_per_box": 87.61,
+   "sqft_per_box": 20.0,
+   "price_per_sqft": 4.38,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Top Floorings Cappuccino Red Oak Solid Hardwood Flooring | 3\u00bc\" x \u00be\" | Select & Better Grade",
+   "url": "https://topfloorings.com/products/top-floorings-cappuccino-red-oak-solid-hardwood-flooring-3-25-x-0-75-select-better",
+   "price_per_box": 87.61,
+   "sqft_per_box": 20.0,
+   "price_per_sqft": 4.38,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Top Floorings Chocolate Brown Red Oak Solid Hardwood Flooring | 3\u00bc\" x \u00be\" | Select & Better Grade",
+   "url": "https://topfloorings.com/products/top-floorings-chocolate-brown-red-oak-solid-hardwood-flooring-3-25-x-0-75-select-better",
+   "price_per_box": 87.61,
+   "sqft_per_box": 20.0,
+   "price_per_sqft": 4.38,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Top Floorings Golden Red Oak Solid Hardwood Flooring | 3\u00bc\" x \u00be\" | Select & Better Grade",
+   "url": "https://topfloorings.com/products/top-floorings-golden-red-oak-solid-hardwood-flooring-3-25-x-0-75-select-better",
+   "price_per_box": 87.61,
+   "sqft_per_box": 20.0,
+   "price_per_sqft": 4.38,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Sunshiny Red Oak Red Wine Solid Hardwood Flooring | 3\u00bc\" x \u00be\"",
+   "url": "https://topfloorings.com/products/sunshiny-red-oak-red-wine-solid-hardwood-flooring-3-1-4-x-3-4",
+   "price_per_box": 87.61,
+   "sqft_per_box": 20.0,
+   "price_per_sqft": 4.38,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Top Floorings Red Oak Chocolate Brown Solid Hardwood Flooring | 3\u00bc\" x \u00be\"",
+   "url": "https://topfloorings.com/products/top-floorings-red-oak-chocolate-brown-solid-hardwood-flooring-3-1-4-x-3-4",
+   "price_per_box": 96.37,
+   "sqft_per_box": 22.0,
+   "price_per_sqft": 4.38,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Top Floorings Red Oak Natural Solid Hardwood Flooring | 3\u00bc\" x \u00be\" | Select & Better",
+   "url": "https://topfloorings.com/products/top-floorings-red-oak-natural-solid-hardwood-flooring-3-25-x-0-75-select-better",
+   "price_per_box": 87.61,
+   "sqft_per_box": 20.0,
+   "price_per_sqft": 4.38,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Top Floorings Espresso Red Oak Solid Hardwood Flooring | 4\" x \u00be\" | Select & Better Grade",
+   "url": "https://topfloorings.com/products/top-floorings-espresso-red-oak-solid-hardwood-flooring-4-x-0-75-select-better",
+   "price_per_box": 82.45,
+   "sqft_per_box": 18.67,
+   "price_per_sqft": 4.42,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Top Floorings Auburn Red Oak Solid Hardwood Flooring | 4\" x \u00be\" | Select & Better Grade",
+   "url": "https://topfloorings.com/products/top-floorings-auburn-red-oak-solid-hardwood-flooring-4-x-0-75-select-better",
+   "price_per_box": 82.45,
+   "sqft_per_box": 18.67,
+   "price_per_sqft": 4.42,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Top Floorings Saddle Red Oak Solid Hardwood Flooring | 4\" x \u00be\" | Select & Better Grade",
+   "url": "https://topfloorings.com/products/top-floorings-saddle-red-oak-solid-hardwood-flooring-4-x-0-75-select-better",
+   "price_per_box": 82.45,
+   "sqft_per_box": 18.67,
+   "price_per_sqft": 4.42,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Sunshiny Red Oak Cherry Solid Hardwood Flooring | 4\" x \u00be\"",
+   "url": "https://topfloorings.com/products/sunshiny-red-oak-cherry-solid-hardwood-flooring-4-x-3-4",
+   "price_per_box": 82.45,
+   "sqft_per_box": 18.67,
+   "price_per_sqft": 4.42,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Sunshiny Red Oak Cappuccino Solid Hardwood Flooring | 4\" x \u00be\"",
+   "url": "https://topfloorings.com/products/sunshiny-red-oak-cappuccino-solid-hardwood-flooring-4-x-3-4",
+   "price_per_box": 82.45,
+   "sqft_per_box": 18.67,
+   "price_per_sqft": 4.42,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Riche Hard Maple Chocolate Solid Hardwood Flooring | 4\u00bc\u2033 x \u00be\u2033 | Made in Canada",
+   "url": "https://topfloorings.com/products/riche-hard-maple-chocolate-solid-hardwood-flooring-4-25-x-0-75-made-in-canada",
+   "price_per_box": 76.33,
+   "sqft_per_box": 17.0,
+   "price_per_sqft": 4.49,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Seasons Yellow Birch Solid Hardwood Flooring | 4\" x \u00be\" | Prestige Grade",
+   "url": "https://topfloorings.com/products/seasons-yellow-birch-solid-hardwood-flooring-4-x-3-4-prestige-grade",
+   "price_per_box": 81.0,
+   "sqft_per_box": 18.0,
+   "price_per_sqft": 4.5,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Superior Flooring Russet Ash Select Grade Solid Hardwood Flooring | 3\u00bc\" x \u00be\"",
+   "url": "https://topfloorings.com/products/superior-flooring-russet-ash-select-grade-solid-hardwood-flooring-3-1-4-x-3-4",
+   "price_per_box": 101.25,
+   "sqft_per_box": 22.5,
+   "price_per_sqft": 4.5,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Top Floorings Antique Oak Solid Hardwood Flooring - Chocolate | 4\u00be\" x \u00be\"",
+   "url": "https://topfloorings.com/products/top-floorings-antique-oak-solid-hardwood-flooring-chocolate-4-75-x-75",
+   "price_per_box": 99.65,
+   "sqft_per_box": 21.71,
+   "price_per_sqft": 4.59,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Riche Hard Maple City Grey Solid Hardwood Flooring | 4\u00bc\u2033 x \u00be\u2033 | Made in Canada",
+   "url": "https://topfloorings.com/products/riche-hard-maple-city-grey-solid-hardwood-flooring-4-25-x-0-75-made-in-canada",
+   "price_per_box": 78.03,
+   "sqft_per_box": 17.0,
+   "price_per_sqft": 4.59,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Top Floorings Midnight Acacia Solid Hardwood Flooring | 4\u00be\" x \u00be\"",
+   "url": "https://topfloorings.com/products/top-floorings-midnight-acacia-solid-hardwood-flooring-4-75-x-75",
+   "price_per_box": 99.65,
+   "sqft_per_box": 21.71,
+   "price_per_sqft": 4.59,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Top Floorings Illusion Acacia Solid Hardwood Flooring | 4\u00be\" x \u00be\"",
+   "url": "https://topfloorings.com/products/top-floorings-illusion-acacia-solid-hardwood-flooring-4-75-x-75",
+   "price_per_box": 99.65,
+   "sqft_per_box": 21.71,
+   "price_per_sqft": 4.59,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Top Floorings Antique Oak Deep Bronze Solid Hardwood Flooring | 4\u00be\" x \u00be\"",
+   "url": "https://topfloorings.com/products/top-floorings-antique-oak-deep-bronze-solid-hardwood-flooring-4-75-x-75",
+   "price_per_box": 99.65,
+   "sqft_per_box": 21.71,
+   "price_per_sqft": 4.59,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Top Floorings Antique Oak Amaretto Solid Hardwood Flooring | 4\u00be\" x \u00be\"",
+   "url": "https://topfloorings.com/products/top-floorings-antique-oak-amaretto-solid-hardwood-flooring-4-75-x-75",
+   "price_per_box": 99.64,
+   "sqft_per_box": 21.71,
+   "price_per_sqft": 4.59,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Top Floorings Antique Oak Sahara Solid Hardwood Flooring | 4\u00be\" x \u00be\"",
+   "url": "https://topfloorings.com/products/top-floorings-antique-oak-sahara-solid-hardwood-flooring-4-75-x-75",
+   "price_per_box": 99.65,
+   "sqft_per_box": 21.71,
+   "price_per_sqft": 4.59,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Seasons Choco Maple Solid Hardwood Flooring | 4\" x \u00be\" | Prestige Grade",
+   "url": "https://topfloorings.com/products/seasons-choco-maple-solid-hardwood-flooring-4-x-3-4-prestige-grade",
+   "price_per_box": 84.42,
+   "sqft_per_box": 18.0,
+   "price_per_sqft": 4.69,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Seasons Walnut Maple Solid Hardwood Flooring | 4\" x \u00be\" | Prestige Grade",
+   "url": "https://topfloorings.com/products/seasons-walnut-maple-solid-hardwood-flooring-4-x-3-4-prestige-grade",
+   "price_per_box": 84.42,
+   "sqft_per_box": 18.0,
+   "price_per_sqft": 4.69,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Seasons Gunstock Maple Solid Hardwood Flooring | 4\" x \u00be\" | Prestige Grade",
+   "url": "https://topfloorings.com/products/seasons-gunstock-maple-solid-hardwood-flooring-4-x-3-4-prestige-grade",
+   "price_per_box": 84.42,
+   "sqft_per_box": 18.0,
+   "price_per_sqft": 4.69,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Seasons Maple Classic Solid Hardwood Flooring | 4\" x \u00be\" | Prestige Grade",
+   "url": "https://topfloorings.com/products/seasons-maple-classic-solid-hardwood-flooring-4-x-3-4-prestige-grade",
+   "price_per_box": 84.42,
+   "sqft_per_box": 18.0,
+   "price_per_sqft": 4.69,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Seasons No. 1 Red Oak Jatoba Solid Hardwood Flooring | 4\" x \u00be\"",
+   "url": "https://topfloorings.com/products/seasons-no-1-red-oak-jatoba-solid-hardwood-flooring-4-x-75",
+   "price_per_box": 84.42,
+   "sqft_per_box": 18.0,
+   "price_per_sqft": 4.69,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Seasons No. 1 Red Oak Auburn Solid Hardwood Flooring | 4\" x \u00be\"",
+   "url": "https://topfloorings.com/products/seasons-no-1-red-oak-auburn-solid-hardwood-flooring-4-x-75",
+   "price_per_box": 84.42,
+   "sqft_per_box": 18.0,
+   "price_per_sqft": 4.69,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Top Floorings Charcoal Hard Maple Solid Hardwood Flooring | 4\" x \u00be\"",
+   "url": "https://topfloorings.com/products/top-floorings-charcoal-hard-maple-solid-hardwood-flooring-4-x-3-4",
+   "price_per_box": 88.39,
+   "sqft_per_box": 18.67,
+   "price_per_sqft": 4.73,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Sunshiny Hard Maple Godiva Solid Hardwood Flooring | 4\" x \u00be\"",
+   "url": "https://topfloorings.com/products/sunshiny-hard-maple-godiva-solid-hardwood-flooring-4-x-3-4",
+   "price_per_box": 88.39,
+   "sqft_per_box": 18.67,
+   "price_per_sqft": 4.73,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Top Floorings Hard Maple Buckskin Solid Hardwood Flooring | 4\" x \u00be\"",
+   "url": "https://topfloorings.com/products/top-floorings-hard-maple-buckskin-solid-hardwood-flooring-4-x-3-4",
+   "price_per_box": 88.39,
+   "sqft_per_box": 18.67,
+   "price_per_sqft": 4.73,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Top Floorings Hard Maple Ebony Solid Hardwood Flooring | 4\" x \u00be\"",
+   "url": "https://topfloorings.com/products/top-floorings-hard-maple-ebony-solid-hardwood-flooring-4-x-3-4",
+   "price_per_box": 88.39,
+   "sqft_per_box": 18.67,
+   "price_per_sqft": 4.73,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Appalachian Natural Red Oak Hardwood Flooring | 4\u00bc\" Advantage Grade | Solid Wood",
+   "url": "https://topfloorings.com/products/appalachian-natural-red-oak-hardwood-flooring-4-1-4-advantage-grade-semi-gloss-solid-wood",
+   "price_per_box": 92.42,
+   "sqft_per_box": 18.9,
+   "price_per_sqft": 4.89,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Superior Flooring Select Red Oak Truffle Solid Hardwood Flooring | 3\u00bc\u2033 x \u00be\u2033 | Made in Canada",
+   "url": "https://topfloorings.com/products/superior-flooring-select-red-oak-truffle-solid-hardwood-flooring-3-25-x-0-75",
+   "price_per_box": 111.37,
+   "sqft_per_box": 22.5,
+   "price_per_sqft": 4.95,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Superior Flooring Select Red Oak Copper Solid Hardwood Flooring | 3\u00bc\u2033 x \u00be\u2033 | Made in Canada",
+   "url": "https://topfloorings.com/products/superior-flooring-select-red-oak-copper-solid-hardwood-flooring-3-25-x-0-75",
+   "price_per_box": 111.37,
+   "sqft_per_box": 22.5,
+   "price_per_sqft": 4.95,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Superior Flooring Cognac Red Oak Select Grade Solid Hardwood Flooring | 3\u00bc\" x \u00be\"",
+   "url": "https://topfloorings.com/products/superior-flooring-cognac-red-oak-select-grade-solid-hardwood-flooring-3-1-4-x-3-4",
+   "price_per_box": 111.37,
+   "sqft_per_box": 22.5,
+   "price_per_sqft": 4.95,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Armstrong American Scrape Oak Wild West Solid Hardwood Flooring | 3\u00bc\u2033 x \u00be\u2033 | Made in USA",
+   "url": "https://topfloorings.com/products/armstrong-american-scrape-oak-wild-west-solid-hardwood-flooring-3-25-x-0-75-made-in-usa",
+   "price_per_box": 109.78,
+   "sqft_per_box": 22.0,
+   "price_per_sqft": 4.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Armstrong American Scrape Oak Gunstock Solid Hardwood Flooring | 3\u00bc\u2033 x \u00be\u2033 | Made in USA",
+   "url": "https://topfloorings.com/products/armstrong-american-scrape-oak-gunstock-solid-hardwood-flooring-3-25-x-0-75-made-in-usa",
+   "price_per_box": 109.78,
+   "sqft_per_box": 22.0,
+   "price_per_sqft": 4.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Bruce Oak Natural Solid Hardwood Flooring | 3\u00bc\" x \u00be\" | Made in USA",
+   "url": "https://topfloorings.com/products/bruce-oak-natural-solid-hardwood-flooring-3-1-4-x-3-4-made-in-usa",
+   "price_per_box": 109.78,
+   "sqft_per_box": 22.0,
+   "price_per_sqft": 4.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Lauzon Beech Chai Tea Solid Hardwood Flooring | 3\u00bc\" x \u00be\" | Made in Canada",
+   "url": "https://topfloorings.com/products/lauzon-beech-chai-tea-solid-hardwood-flooring-3-1-4-x-3-4-made-in-canada",
+   "price_per_box": 99.8,
+   "sqft_per_box": 20.0,
+   "price_per_sqft": 4.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "North Plank Black Pepper Birch Solid Hardwood Flooring | 3\u00bc\" x \u00be\" | Select Grade",
+   "url": "https://topfloorings.com/products/north-plank-black-pepper-birch-solid-hardwood-flooring-3-1-4-x-3-4-select-grade",
+   "price_per_box": 99.8,
+   "sqft_per_box": 20.0,
+   "price_per_sqft": 4.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Top Floorings Maple Cappuccino Solid Hardwood Flooring | 4\" x \u00be\" | Select & Better",
+   "url": "https://topfloorings.com/products/top-floorings-maple-cappuccino-solid-hardwood-flooring-4-x-3-4-select-better",
+   "price_per_box": 97.31,
+   "sqft_per_box": 19.5,
+   "price_per_sqft": 4.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Riche Select & Better Red Oak Dark Mocha Solid Hardwood Flooring | 4\u00bc\" x \u00be\"",
+   "url": "https://topfloorings.com/products/riche-select-and-better-red-oak-dark-mocha-solid-hardwood-flooring-4-25-x-75",
+   "price_per_box": 97.31,
+   "sqft_per_box": 19.5,
+   "price_per_sqft": 4.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Riche Select & Better Red Oak Cherry Solid Hardwood Flooring | 4\u00bc\" x \u00be\"",
+   "url": "https://topfloorings.com/products/riche-select-and-better-red-oak-cherry-solid-hardwood-flooring-4-25-x-75",
+   "price_per_box": 97.31,
+   "sqft_per_box": 19.5,
+   "price_per_sqft": 4.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Riche Select & Better Red Oak Cappuccino Solid Hardwood Flooring | 3\u00bc\" x \u00be\"",
+   "url": "https://topfloorings.com/products/riche-select-and-better-red-oak-cappuccino-solid-hardwood-flooring-3-25-x-75",
+   "price_per_box": 112.28,
+   "sqft_per_box": 22.5,
+   "price_per_sqft": 4.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Riche Select & Better Red Oak Charcoal Solid Hardwood Flooring | 3\u00bc\u2033 x \u00be\u2033 | Made in Canada",
+   "url": "https://topfloorings.com/products/riche-select-better-red-oak-charcoal-solid-hardwood-flooring-3-25-x-0-75",
+   "price_per_box": 112.28,
+   "sqft_per_box": 22.5,
+   "price_per_sqft": 4.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Riche Select & Better Red Oak Golden BR Solid Hardwood Flooring | 3\u00bc\u2033 x \u00be\u2033 | Made in Canada",
+   "url": "https://topfloorings.com/products/riche-select-better-red-oak-golden-br-solid-hardwood-flooring-3-25-x-0-75",
+   "price_per_box": 112.28,
+   "sqft_per_box": 22.5,
+   "price_per_sqft": 4.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Riche Select & Better Red Oak Golden Solid Hardwood Flooring | 3\u00bc\u2033 x \u00be\u2033 | Made in Canada",
+   "url": "https://topfloorings.com/products/riche-select-better-red-oak-golden-solid-hardwood-flooring-3-25-x-0-75",
+   "price_per_box": 112.28,
+   "sqft_per_box": 22.5,
+   "price_per_sqft": 4.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Lauzon Essential Beech Cape Cod Solid Hardwood Flooring | 3\u00bc\" x \u00be\" | Made in Canada",
+   "url": "https://topfloorings.com/products/lauzon-essential-beech-cape-cod-solid-hardwood-flooring-3-x-made-in-canada",
+   "price_per_box": 99.8,
+   "sqft_per_box": 20.0,
+   "price_per_sqft": 4.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Appalachian Granit Hard Maple Hardwood Flooring | 3\u00bc\" Prestige Grade Semi Gloss | Solid Wood",
+   "url": "https://topfloorings.com/products/appalachian-granit-hard-maple-hardwood-flooring-3-1-4-prestige-grade-semi-gloss-solid-wood",
+   "price_per_box": 101.8,
+   "sqft_per_box": 20.0,
+   "price_per_sqft": 5.09,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Appalachian Earth Red Oak Hardwood Flooring | 3\u00bc\" Prestige Grade | Solid Wood",
+   "url": "https://topfloorings.com/products/appalachian-earth-red-oak-hardwood-flooring-3-1-4-prestige-grade-semi-gloss-solid-wood",
+   "price_per_box": 103.8,
+   "sqft_per_box": 20.0,
+   "price_per_sqft": 5.19,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Appalachian Medici Red Oak Hardwood Flooring | 3\u00bc\" Prestige Grade | Solid Wood",
+   "url": "https://topfloorings.com/products/appalachian-medici-red-oak-hardwood-flooring-3-1-4-prestige-grade-semi-gloss-solid-wood",
+   "price_per_box": 103.8,
+   "sqft_per_box": 20.0,
+   "price_per_sqft": 5.19,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Appalachian Natural Red Oak Hardwood Flooring | 3\u00bc\" Prestige Grade | Solid Wood",
+   "url": "https://topfloorings.com/products/appalachian-natural-red-oak-hardwood-flooring-3-1-4-prestige-grade-semi-gloss-solid-wood",
+   "price_per_box": 103.8,
+   "sqft_per_box": 20.0,
+   "price_per_sqft": 5.19,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Appalachian Sierra Hard Maple Hardwood Flooring | 3\u00bc\" Prestige Grade | Solid Wood",
+   "url": "https://topfloorings.com/products/appalachian-sierra-hard-maple-hardwood-flooring-3-1-4-prestige-grade-solid-wood",
+   "price_per_box": 103.8,
+   "sqft_per_box": 20.0,
+   "price_per_sqft": 5.19,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Appalachian Moka Hard Maple Hardwood Flooring | 3\u00bc\" Prestige Grade | Solid Wood",
+   "url": "https://topfloorings.com/products/appalachian-moka-hard-maple-hardwood-flooring-3-1-4-prestige-grade-solid-wood",
+   "price_per_box": 103.8,
+   "sqft_per_box": 20.0,
+   "price_per_sqft": 5.19,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Appalachian Hazelnut Hard Maple Hardwood Flooring | 3\u00bc\" Prestige Grade | Solid Wood",
+   "url": "https://topfloorings.com/products/appalachian-hazelnut-hard-maple-hardwood-flooring-3-1-4-prestige-grade-solid-wood",
+   "price_per_box": 103.8,
+   "sqft_per_box": 20.0,
+   "price_per_sqft": 5.19,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Appalachian Earth Hard Maple Hardwood Flooring | 3\u00bc\" Prestige Grade | Solid Wood",
+   "url": "https://topfloorings.com/products/appalachian-earth-hard-maple-hardwood-flooring-3-1-4-prestige-grade-solid-wood",
+   "price_per_box": 103.8,
+   "sqft_per_box": 20.0,
+   "price_per_sqft": 5.19,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Appalachian Slate Red Oak Hardwood Flooring | 3\u00bc\" Prestige Grade | Solid Wood",
+   "url": "https://topfloorings.com/products/appalachian-slate-red-oak-hardwood-flooring-3-1-4-prestige-grade-solid-wood",
+   "price_per_box": 103.8,
+   "sqft_per_box": 20.0,
+   "price_per_sqft": 5.19,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Appalachian Auburn Red Oak Hardwood Flooring | 3\u00bc\" Prestige Grade | Solid Wood",
+   "url": "https://topfloorings.com/products/appalachian-auburn-red-oak-hardwood-flooring-3-1-4-prestige-grade-solid-wood",
+   "price_per_box": 103.8,
+   "sqft_per_box": 20.0,
+   "price_per_sqft": 5.19,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Appalachian Amaretto Red Oak Hardwood Flooring | 3\u00bc\" Prestige Grade | Solid Wood",
+   "url": "https://topfloorings.com/products/appalachian-amaretto-red-oak-hardwood-flooring-3-1-4-prestige-grade-solid-wood",
+   "price_per_box": 103.8,
+   "sqft_per_box": 20.0,
+   "price_per_sqft": 5.19,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Appalachian Chestnut Hard Maple Hardwood Flooring | 3\u00bc\" Prestige Grade Semi Gloss | Solid Wood",
+   "url": "https://topfloorings.com/products/appalachian-chestnut-hard-maple-hardwood-flooring-3-1-4-prestige-grade-semi-gloss-solid-wood",
+   "price_per_box": 103.8,
+   "sqft_per_box": 20.0,
+   "price_per_sqft": 5.19,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Appalachian Mahogany Hard Maple Hardwood Flooring | 3\u00bc\" Prestige Grade Semi Gloss | Solid Wood",
+   "url": "https://topfloorings.com/products/appalachian-mahogany-hard-maple-hardwood-flooring-3-1-4-prestige-grade-semi-gloss-solid-wood",
+   "price_per_box": 103.8,
+   "sqft_per_box": 20.0,
+   "price_per_sqft": 5.19,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Seasons Select Red Oak Natural Solid Hardwood Flooring | 3\u00bc\" x \u00be\"",
+   "url": "https://topfloorings.com/products/seasons-select-red-oak-natural-solid-hardwood-flooring-3-25-x-75",
+   "price_per_box": 107.8,
+   "sqft_per_box": 20.0,
+   "price_per_sqft": 5.39,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Lauzon Essential Red Oak Limes Solid Hardwood Flooring | 4\u00bc\" x \u00be\" | Made in Canada",
+   "url": "https://topfloorings.com/products/lauzon-essential-red-oak-limes-solid-hardwood-flooring-4-x-made-in-canada",
+   "price_per_box": 91.63,
+   "sqft_per_box": 17.0,
+   "price_per_sqft": 5.39,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Appalachian Amaretto Red Oak Hardwood Flooring | 4\u00bc\" Excel Grade Semi Gloss | Solid Wood",
+   "url": "https://topfloorings.com/products/appalachian-amaretto-red-oak-hardwood-flooring-4-1-4-excel-grade-semi-gloss-solid-wood",
+   "price_per_box": 103.76,
+   "sqft_per_box": 18.9,
+   "price_per_sqft": 5.49,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Appalachian Natural Red Oak Hardwood Flooring | 4\u00bc\" Excel Grade Semi Gloss | Solid Wood",
+   "url": "https://topfloorings.com/products/appalachian-natural-red-oak-hardwood-flooring-4-1-4-excel-grade-semi-gloss-solid-wood",
+   "price_per_box": 103.76,
+   "sqft_per_box": 18.9,
+   "price_per_sqft": 5.49,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Appalachian Jasper Red Oak Hardwood Flooring | 3\u00bc\" Advantage Grade | Solid Wood",
+   "url": "https://topfloorings.com/products/appalachian-jasper-red-oak-hardwood-flooring-3-1-4-advantage-grade-solid-wood",
+   "price_per_box": 110.0,
+   "sqft_per_box": 20.0,
+   "price_per_sqft": 5.5,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Appalachian Earth Red Oak Hardwood Flooring | 3\u00bc\" Advantage Grade | Solid Wood",
+   "url": "https://topfloorings.com/products/appalachian-earth-red-oak-hardwood-flooring-3-1-4-advantage-grade-solid-wood",
+   "price_per_box": 110.0,
+   "sqft_per_box": 20.0,
+   "price_per_sqft": 5.5,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Appalachian Moka Red Oak Hardwood Flooring | 3\u00bc\" Advantage Grade | Solid Wood",
+   "url": "https://topfloorings.com/products/appalachian-moka-red-oak-hardwood-flooring-3-1-4-advantage-grade-solid-wood",
+   "price_per_box": 110.0,
+   "sqft_per_box": 20.0,
+   "price_per_sqft": 5.5,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Appalachian Earth Hard Maple Hardwood Flooring | 4\u00bc\" Advantage Grade | Solid Wood",
+   "url": "https://topfloorings.com/products/appalachian-earth-hard-maple-hardwood-flooring-4-1-4-advantage-grade-solid-wood",
+   "price_per_box": 103.95,
+   "sqft_per_box": 18.9,
+   "price_per_sqft": 5.5,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Appalachian Moka Hard Maple Hardwood Flooring | 4\u00bc\" Advantage Grade | Solid Wood",
+   "url": "https://topfloorings.com/products/appalachian-moka-hard-maple-hardwood-flooring-4-1-4-advantage-grade-solid-wood",
+   "price_per_box": 103.95,
+   "sqft_per_box": 18.9,
+   "price_per_sqft": 5.5,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Appalachian Earth Red Oak Hardwood Flooring | 4\u00bc\" Advantage Grade | Solid Wood",
+   "url": "https://topfloorings.com/products/appalachian-earth-red-oak-hardwood-flooring-4-1-4-advantage-grade-solid-wood",
+   "price_per_box": 103.95,
+   "sqft_per_box": 18.9,
+   "price_per_sqft": 5.5,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Appalachian Rosewood Hard Maple Hardwood Flooring | 4\u00bc\" Advantage Grade Semi Gloss | Solid Wood",
+   "url": "https://topfloorings.com/products/appalachian-rosewood-hard-maple-hardwood-flooring-4-1-4-advantage-grade-semi-gloss-solid-wood",
+   "price_per_box": 103.95,
+   "sqft_per_box": 18.9,
+   "price_per_sqft": 5.5,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Appalachian Walnut Hard Maple Hardwood Flooring | 4\u00bc\" Advantage Grade Semi Gloss | Solid Wood",
+   "url": "https://topfloorings.com/products/appalachian-walnut-hard-maple-hardwood-flooring-4-1-4-advantage-grade-semi-gloss-solid-wood",
+   "price_per_box": 103.95,
+   "sqft_per_box": 18.9,
+   "price_per_sqft": 5.5,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Appalachian Walnut Red Oak Hardwood Flooring | 4\u00bc\" Advantage Grade Semi Gloss | Solid Wood",
+   "url": "https://topfloorings.com/products/appalachian-walnut-red-oak-hardwood-flooring-4-1-4-advantage-grade-semi-gloss-solid-wood",
+   "price_per_box": 103.95,
+   "sqft_per_box": 18.9,
+   "price_per_sqft": 5.5,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Lauzon Exclusive Hard Maple Kenya Solid Hardwood Flooring | 4\u00bc\" x \u00be\" | Made in Canada",
+   "url": "https://topfloorings.com/products/lauzon-exclusive-hard-maple-kenya-solid-hardwood-flooring-4-x-made-in-canada",
+   "price_per_box": 99.8,
+   "sqft_per_box": 17.0,
+   "price_per_sqft": 5.87,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Lauzon Exclusive Hard Maple Graphite Solid Hardwood Flooring | 4\u00bc\" x \u00be\" | Made in Canada",
+   "url": "https://topfloorings.com/products/lauzon-exclusive-hard-maple-graphite-solid-hardwood-flooring-4-x-made-in-canada",
+   "price_per_box": 99.8,
+   "sqft_per_box": 17.0,
+   "price_per_sqft": 5.87,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Lauzon Exclusive Hard Maple Smokey Grey Solid Hardwood Flooring | 4\u00bc\" x \u00be\" | Made in Canada",
+   "url": "https://topfloorings.com/products/lauzon-exclusive-hard-maple-smokey-grey-solid-hardwood-flooring-4-x-made-in-canada",
+   "price_per_box": 99.8,
+   "sqft_per_box": 17.0,
+   "price_per_sqft": 5.87,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Lauzon Essential Hard Maple Sapphir Solid Hardwood Flooring | 4\u00bc\" x \u00be\" | Made in Canada",
+   "url": "https://topfloorings.com/products/lauzon-essential-hard-maple-sapphir-solid-hardwood-flooring-4-x-made-in-canada",
+   "price_per_box": 99.8,
+   "sqft_per_box": 17.0,
+   "price_per_sqft": 5.87,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Seasons Choco Brown Red Oak Hardwood Flooring | 3\u00bc\" Prestige Grade | Solid Wood",
+   "url": "https://topfloorings.com/products/seasons-choco-brown-red-oak-hardwood-flooring-3-1-4-prestige-grade-solid-wood",
+   "price_per_box": 117.8,
+   "sqft_per_box": 20.0,
+   "price_per_sqft": 5.89,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Seasons Pistachio Red Oak Hardwood Flooring | 3\u00bc\" Prestige Grade | Solid Wood",
+   "url": "https://topfloorings.com/products/seasons-pistachio-red-oak-hardwood-flooring-3-1-4-prestige-grade-solid-wood",
+   "price_per_box": 117.8,
+   "sqft_per_box": 20.0,
+   "price_per_sqft": 5.89,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Seasons Black Pepper Red Oak Hardwood Flooring | 3\u00bc\" Prestige Grade | Solid Wood",
+   "url": "https://topfloorings.com/products/seasons-black-pepper-red-oak-hardwood-flooring-3-1-4-prestige-grade-solid-wood",
+   "price_per_box": 117.8,
+   "sqft_per_box": 20.0,
+   "price_per_sqft": 5.89,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Appalachian Amaretto Red Oak Hardwood Flooring | 4\u00bc\" Prestige Grade | Solid Wood",
+   "url": "https://topfloorings.com/products/appalachian-amaretto-red-oak-hardwood-flooring-4-1-4-prestige-grade-solid-wood",
+   "price_per_box": 112.27,
+   "sqft_per_box": 18.9,
+   "price_per_sqft": 5.94,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Appalachian Earth Red Oak Hardwood Flooring | 4\u00bc\" Prestige Grade | Solid Wood",
+   "url": "https://topfloorings.com/products/appalachian-earth-red-oak-hardwood-flooring-4-1-4-prestige-grade-solid-wood",
+   "price_per_box": 112.27,
+   "sqft_per_box": 18.9,
+   "price_per_sqft": 5.94,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Appalachian Medici Red Oak Hardwood Flooring | 4\u00bc\" Prestige Grade Semi Gloss | Solid Wood",
+   "url": "https://topfloorings.com/products/appalachian-medici-red-oak-hardwood-flooring-4-1-4-prestige-grade-semi-gloss-solid-wood",
+   "price_per_box": 112.27,
+   "sqft_per_box": 18.9,
+   "price_per_sqft": 5.94,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Appalachian Sable Red Oak Hardwood Flooring | 4\u00bc\" Prestige Grade Semi Gloss | Solid Wood",
+   "url": "https://topfloorings.com/products/appalachian-sable-red-oak-hardwood-flooring-4-1-4-prestige-grade-semi-gloss-solid-wood",
+   "price_per_box": 112.27,
+   "sqft_per_box": 18.9,
+   "price_per_sqft": 5.94,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Appalachian Jasper Red Oak Hardwood Flooring | 4\u00bc\" Prestige Grade Semi Gloss | Solid Wood",
+   "url": "https://topfloorings.com/products/appalachian-jasper-red-oak-hardwood-flooring-4-1-4-prestige-grade-semi-gloss-solid-wood",
+   "price_per_box": 112.27,
+   "sqft_per_box": 18.9,
+   "price_per_sqft": 5.94,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Appalachian Latte Red Oak Hardwood Flooring | 4\u00bc\" Prestige Grade Semi Gloss | Solid Wood",
+   "url": "https://topfloorings.com/products/appalachian-latte-red-oak-hardwood-flooring-4-1-4-prestige-grade-semi-gloss-solid-wood",
+   "price_per_box": 112.27,
+   "sqft_per_box": 18.9,
+   "price_per_sqft": 5.94,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Appalachian Gunstock Red Oak Hardwood Flooring | 4\u00bc\" Prestige Grade Semi Gloss | Solid Wood",
+   "url": "https://topfloorings.com/products/appalachian-gunstock-red-oak-hardwood-flooring-4-1-4-prestige-grade-semi-gloss-solid-wood",
+   "price_per_box": 112.27,
+   "sqft_per_box": 18.9,
+   "price_per_sqft": 5.94,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Appalachian Safari Red Oak Hardwood Flooring | 4\u00bc\" Prestige Grade Semi Gloss | Solid Wood",
+   "url": "https://topfloorings.com/products/appalachian-safari-red-oak-hardwood-flooring-4-1-4-prestige-grade-semi-gloss-solid-wood",
+   "price_per_box": 112.27,
+   "sqft_per_box": 18.9,
+   "price_per_sqft": 5.94,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Appalachian Treebark Red Oak Hardwood Flooring | 4\u00bc\" Prestige Grade Semi Gloss | Solid Wood",
+   "url": "https://topfloorings.com/products/appalachian-treebark-red-oak-hardwood-flooring-4-1-4-prestige-grade-semi-gloss-solid-wood",
+   "price_per_box": 112.27,
+   "sqft_per_box": 18.9,
+   "price_per_sqft": 5.94,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Lauzon Essential Hard Maple Smoky Grey Solid Hardwood Flooring | 3\u00bc\" x \u00be\" | Made in Canada",
+   "url": "https://topfloorings.com/products/lauzon-essential-hard-maple-smoky-grey-solid-hardwood-flooring-3-1-4-x-3-4-made-in-canada",
+   "price_per_box": 119.8,
+   "sqft_per_box": 20.0,
+   "price_per_sqft": 5.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Top Floorings Antique Oak Solid Hardwood Flooring \u2013 Pepper | 4\u00be\" x \u00be\"",
+   "url": "https://topfloorings.com/products/top-floorings-antique-oak-solid-hardwood-flooring-pepper-4-75-x-75",
+   "price_per_box": 130.0,
+   "sqft_per_box": 21.71,
+   "price_per_sqft": 5.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Top Floorings Antique Oak Solid Hardwood Flooring \u2013 City Grey | 4\u00be\" x \u00be\"",
+   "url": "https://topfloorings.com/products/top-floorings-antique-oak-solid-hardwood-flooring-city-grey-4-75-x-75",
+   "price_per_box": 130.0,
+   "sqft_per_box": 21.71,
+   "price_per_sqft": 5.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Superior Flooring Ash Ebony Solid Hardwood Flooring | 4\u00bc\" x \u00be\" | Made in Canada",
+   "url": "https://topfloorings.com/products/superior-flooring-ash-ebony-solid-hardwood-flooring-4-1-4-x-3-4-made-in-canada",
+   "price_per_box": 116.8,
+   "sqft_per_box": 19.5,
+   "price_per_sqft": 5.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Riche Red Oak Charcoal Solid Hardwood Flooring | 4\u00bc\u2033 x \u00be\u2033 | Made in Canada",
+   "url": "https://topfloorings.com/products/riche-red-oak-charcoal-solid-hardwood-flooring-4-25-x-0-75-made-in-canada",
+   "price_per_box": 101.83,
+   "sqft_per_box": 17.0,
+   "price_per_sqft": 5.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Riche Red Oak Golden Solid Hardwood Flooring | 4\u00bc\u2033 x \u00be\u2033 | Made in Canada",
+   "url": "https://topfloorings.com/products/riche-red-oak-golden-solid-hardwood-flooring-4-25-x-0-75-made-in-canada",
+   "price_per_box": 101.83,
+   "sqft_per_box": 17.0,
+   "price_per_sqft": 5.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Riche Red Oak Cappuccino Solid Hardwood Flooring | 4\u00bc\u2033 x \u00be\u2033 | Made in Canada",
+   "url": "https://topfloorings.com/products/riche-red-oak-cappuccino-solid-hardwood-flooring-4-25-x-0-75-made-in-canada",
+   "price_per_box": 101.83,
+   "sqft_per_box": 17.0,
+   "price_per_sqft": 5.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Riche Red Oak Cherry Solid Hardwood Flooring | 4\u00bc\u2033 x \u00be\u2033 | Made in Canada",
+   "url": "https://topfloorings.com/products/riche-red-oak-cherry-solid-hardwood-flooring-4-25-x-0-75-made-in-canada",
+   "price_per_box": 101.83,
+   "sqft_per_box": 17.0,
+   "price_per_sqft": 5.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Riche Hard Maple Lava Solid Hardwood Flooring | 4\u00bc\u2033 x \u00be\u2033 | Made in Canada",
+   "url": "https://topfloorings.com/products/riche-hard-maple-lava-solid-hardwood-flooring-4-25-x-0-75-made-in-canada",
+   "price_per_box": 101.83,
+   "sqft_per_box": 17.0,
+   "price_per_sqft": 5.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Riche Red Oak Jasper Solid Hardwood Flooring | 4\u00bc\u2033 x \u00be\u2033 | Made in Canada",
+   "url": "https://topfloorings.com/products/riche-red-oak-jasper-solid-hardwood-flooring-4-25-x-0-75-made-in-canada",
+   "price_per_box": 101.83,
+   "sqft_per_box": 17.0,
+   "price_per_sqft": 5.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Superior Flooring Select Red Oak Cognac Solid Hardwood Flooring | 4\u00bc\u2033 x \u00be\u2033 | Made in Canada",
+   "url": "https://topfloorings.com/products/superior-flooring-select-red-oak-cognac-solid-hardwood-flooring-4-25-x-0-75",
+   "price_per_box": 116.81,
+   "sqft_per_box": 19.5,
+   "price_per_sqft": 5.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Superior Flooring Legend Ash Storm Solid Hardwood Flooring | 4\u00bc\u2033 x \u00be\u2033 | Made in Canada",
+   "url": "https://topfloorings.com/products/superior-flooring-legend-ash-storm-solid-hardwood-flooring-4-25-x-0-75",
+   "price_per_box": 116.8,
+   "sqft_per_box": 19.5,
+   "price_per_sqft": 5.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Superior Flooring Copper Red Oak Solid Hardwood Flooring | Select Grade | 4\u00bc\" x \u00be\"",
+   "url": "https://topfloorings.com/products/superior-flooring-copper-red-oak-solid-hardwood-flooring-select-grade-4-1-4-x-3-4",
+   "price_per_box": 116.81,
+   "sqft_per_box": 19.5,
+   "price_per_sqft": 5.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Superior Flooring Red Oak Coffee Solid Hardwood Flooring | Select Grade | 4\u00bc\" x \u00be\"",
+   "url": "https://topfloorings.com/products/superior-flooring-red-oak-coffee-solid-hardwood-flooring-select-grade-4-1-4-x-3-4",
+   "price_per_box": 116.81,
+   "sqft_per_box": 19.5,
+   "price_per_sqft": 5.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Lauzon Exclusive Hard Maple Azaro Solid Hardwood Flooring | 4\u00bc\" x \u00be\" | Made in Canada",
+   "url": "https://topfloorings.com/products/lauzon-exclusive-hard-maple-azaro-solid-hardwood-flooring-4-x-made-in-canada",
+   "price_per_box": 101.83,
+   "sqft_per_box": 17.0,
+   "price_per_sqft": 5.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Appalachian Treebark Hard Maple Hardwood Flooring | 4\u00bc\" Prestige Grade Semi Gloss | Solid Wood",
+   "url": "https://topfloorings.com/products/appalachian-treebark-hard-maple-hardwood-flooring-4-prestige-grade-semi-gloss-solid-wood",
+   "price_per_box": 114.16,
+   "sqft_per_box": 18.9,
+   "price_per_sqft": 6.04,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Appalachian Natural Hard Maple Hardwood Flooring | 4\u00bc\" Prestige Grade Semi Gloss | Solid Wood",
+   "url": "https://topfloorings.com/products/appalachian-natural-hard-maple-hardwood-flooring-4-prestige-grade-semi-gloss-solid-wood",
+   "price_per_box": 114.16,
+   "sqft_per_box": 18.9,
+   "price_per_sqft": 6.04,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Lauzon Antique Brown Red Oak Solid Hardwood Flooring | 3\u00bc\" x \u00be\" | Made in Canada",
+   "url": "https://topfloorings.com/products/lauzon-antique-brown-red-oak-solid-hardwood-flooring-3-1-4-x-3-4-made-in-canada",
+   "price_per_box": 123.4,
+   "sqft_per_box": 20.0,
+   "price_per_sqft": 6.17,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Appalachian Latte Red Oak Hardwood Flooring | 3\u00bc\" Prestige Grade | Solid Wood",
+   "url": "https://topfloorings.com/products/appalachian-latte-red-oak-hardwood-flooring-3-1-4-prestige-grade-solid-wood",
+   "price_per_box": 132.11,
+   "sqft_per_box": 20.0,
+   "price_per_sqft": 6.61,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Appalachian Poplin White Oak Hardwood Flooring | 4\u00bc\" Prestige Grade Semi Gloss | Solid Wood",
+   "url": "https://topfloorings.com/products/appalachian-poplin-white-oak-hardwood-flooring-4-1-4-prestige-grade-semi-gloss-solid-wood",
+   "price_per_box": 126.44,
+   "sqft_per_box": 18.9,
+   "price_per_sqft": 6.69,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Appalachian Paisley White Oak Hardwood Flooring | 4\u00bc\" Prestige Grade Semi Gloss | Solid Wood",
+   "url": "https://topfloorings.com/products/appalachian-paisley-white-oak-hardwood-flooring-4-1-4-prestige-grade-semi-gloss-solid-wood",
+   "price_per_box": 126.44,
+   "sqft_per_box": 18.9,
+   "price_per_sqft": 6.69,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "PG Hardwood Flooring Maple Minio Solid Hardwood Flooring | 4\u00bc\" x \u00be\" | Pacific Grade",
+   "url": "https://topfloorings.com/products/pg-hardwood-flooring-maple-minio-solid-hardwood-flooring-4-1-4-x-3-4-pacific-grade",
+   "price_per_box": 132.81,
+   "sqft_per_box": 19.0,
+   "price_per_sqft": 6.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Superior Flooring Red Oak Autumn Solid Hardwood Flooring | Select Grade | 4\u00bc\" x \u00be\"",
+   "url": "https://topfloorings.com/products/superior-flooring-red-oak-autumn-solid-hardwood-flooring-select-grade-4-1-4-x-3-4",
+   "price_per_box": 136.31,
+   "sqft_per_box": 19.5,
+   "price_per_sqft": 6.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "MKB Red Oak Graphite Character Solid Hardwood Flooring | 4\u00bc\" \u00d7 \u00be\" | Made in Canada",
+   "url": "https://topfloorings.com/products/mkb-red-oak-graphite-character-hardwood-flooring",
+   "price_per_box": 118.83,
+   "sqft_per_box": 17.0,
+   "price_per_sqft": 6.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "MKB Red Oak Earl Grey Character Solid Hardwood Flooring | 4\u00bc\" \u00d7 \u00be\" | Made in Canada",
+   "url": "https://topfloorings.com/products/mkb-red-oak-earl-grey-character-hardwood-flooring",
+   "price_per_box": 118.83,
+   "sqft_per_box": 17.0,
+   "price_per_sqft": 6.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "MKB Red Oak Madero Character Solid Hardwood Flooring | 4\u00bc\" \u00d7 \u00be\" | Made in Canada",
+   "url": "https://topfloorings.com/products/mkb-red-oak-madero-character-hardwood-flooring",
+   "price_per_box": 118.83,
+   "sqft_per_box": 17.0,
+   "price_per_sqft": 6.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "MKB Red Oak Epicea Character Solid Hardwood Flooring | 4\u00bc\" \u00d7 \u00be\" | Made in Canada",
+   "url": "https://topfloorings.com/products/mkb-red-oak-epicea-character-hardwood-flooring",
+   "price_per_box": 118.83,
+   "sqft_per_box": 17.0,
+   "price_per_sqft": 6.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Appalachian Moka Hard Maple Hardwood Flooring | 4\u00bc\" Prestige Grade Semi Gloss | Solid Wood",
+   "url": "https://topfloorings.com/products/appalachian-moka-hard-maple-hardwood-flooring-4-1-4-prestige-grade-semi-gloss-solid-wood",
+   "price_per_box": 132.11,
+   "sqft_per_box": 18.9,
+   "price_per_sqft": 6.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Lauzon Exclusive Red Oak Vela Solid Hardwood Flooring | 4\u00bc\" x \u00be\" | Made in Canada",
+   "url": "https://topfloorings.com/products/lauzon-exclusive-red-oak-vela-solid-hardwood-flooring-4-x-made-in-canada",
+   "price_per_box": 118.83,
+   "sqft_per_box": 17.0,
+   "price_per_sqft": 6.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Lauzon Select & Better Hard Maple Vela Solid Hardwood Flooring | 4\u00bc\" x \u00be\" | Made in Canada",
+   "url": "https://topfloorings.com/products/lauzon-select-better-hard-maple-vela-solid-hardwood-flooring-4-x-made-in-canada",
+   "price_per_box": 118.83,
+   "sqft_per_box": 17.0,
+   "price_per_sqft": 6.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Lauzon Select & Better Hard Maple Amaretto Solid Hardwood Flooring | 4\u00bc\" x \u00be\" | Made in Canada",
+   "url": "https://topfloorings.com/products/lauzon-select-better-hard-maple-amaretto-solid-hardwood-flooring-4-x-made-in-canada",
+   "price_per_box": 118.83,
+   "sqft_per_box": 17.0,
+   "price_per_sqft": 6.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Appalachian Earth Hard Maple Hardwood Flooring | 4\u00bc\" Prestige Grade Semi Gloss | Solid Wood",
+   "url": "https://topfloorings.com/products/appalachian-earth-hard-maple-hardwood-flooring-4-1-4-prestige-grade-semi-gloss-solid-wood",
+   "price_per_box": 132.11,
+   "sqft_per_box": 18.9,
+   "price_per_sqft": 6.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Lauzon Line Art Agate Solid Hardwood Flooring | 3\u00bc\" x \u00be\" | Made in Canada",
+   "url": "https://topfloorings.com/products/lauzon-line-art-agate-solid-hardwood-flooring-3-1-4-x-3-4-made-in-canada",
+   "price_per_box": 159.8,
+   "sqft_per_box": 20.0,
+   "price_per_sqft": 7.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Armstrong Hickory Frontier Shadow Solid Hardwood Flooring | 3\u00bc\u2033 x \u00be\u2033 | Made in USA",
+   "url": "https://topfloorings.com/products/armstrong-hickory-frontier-shadow-solid-hardwood-flooring-3-25-x-0-75-made-in-usa",
+   "price_per_box": 175.78,
+   "sqft_per_box": 22.0,
+   "price_per_sqft": 7.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Lauzon Line Art Hard Maple Agate Solid Hardwood Flooring | 3\u00bc\u2033 x \u00be\u2033 | Made in Canada",
+   "url": "https://topfloorings.com/products/lauzon-line-art-hard-maple-agate-solid-hardwood-flooring-3-25-x-0-75",
+   "price_per_box": 159.8,
+   "sqft_per_box": 20.0,
+   "price_per_sqft": 7.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Lauzon Pacific Hard Maple Arabic Solid Hardwood Flooring | 4\u00bc\u2033 x \u00be\u2033 | Made in Canada",
+   "url": "https://topfloorings.com/products/lauzon-pacific-hard-maple-arabic-solid-hardwood-flooring-4-25-x-0-75",
+   "price_per_box": 137.8,
+   "sqft_per_box": 17.0,
+   "price_per_sqft": 8.11,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "hardwood",
+   "title": "Lauzon Authentik Red Oak Nostalgia Solid Hardwood Flooring | 4\u00bc\" x \u00be\" | Wire Brushed | Made in Canada",
+   "url": "https://topfloorings.com/products/lauzon-authentik-red-oak-nostalgia-solid-hardwood-flooring-4-x-wire-brushed-made-in-canada",
+   "price_per_box": 169.83,
+   "sqft_per_box": 17.0,
+   "price_per_sqft": 9.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Sunshiny SL501 Bamboo Laminate Flooring | 15mm x 4.41\"",
+   "url": "https://topfloorings.com/products/sunshiny-sl501-bamboo-laminate-flooring-15mm-x-4-41",
+   "price_per_box": 18.25,
+   "sqft_per_box": 13.75,
+   "price_per_sqft": 1.33,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Sunshiny SL588 Laminate Flooring | AC3 | 15mm x 4.41\"",
+   "url": "https://topfloorings.com/products/sunshiny-sl588-laminate-flooring-15mm-x-4-41-china",
+   "price_per_box": 18.25,
+   "sqft_per_box": 13.75,
+   "price_per_sqft": 1.33,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Sunshiny SL712 Laminate Flooring | AC3 | 15mm x 4.41\"",
+   "url": "https://topfloorings.com/products/sunshiny-sl712-laminate-flooring-15mm-x-4-41-china",
+   "price_per_box": 18.25,
+   "sqft_per_box": 13.75,
+   "price_per_sqft": 1.33,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Sunshiny SL009 Laminate Flooring | AC3 | 15mm x 4.41\"",
+   "url": "https://topfloorings.com/products/sunshiny-sl009-laminate-flooring-15mm-x-4-41-china",
+   "price_per_box": 18.25,
+   "sqft_per_box": 13.75,
+   "price_per_sqft": 1.33,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Top Floorings SL1020 Laminate Flooring | 12.3mm x 126mm",
+   "url": "https://topfloorings.com/products/top-floorings-sl1020-laminate-flooring-12-3mm-x-126mm",
+   "price_per_box": 31.4,
+   "sqft_per_box": 19.75,
+   "price_per_sqft": 1.59,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Sunshiny SL1069 Laminate Flooring | 12.3mm x 4.96\"",
+   "url": "https://topfloorings.com/products/sunshiny-sl1069-laminate-flooring-12-3mm-x-4-96",
+   "price_per_box": 31.4,
+   "sqft_per_box": 19.75,
+   "price_per_sqft": 1.59,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Sunshiny SL1093 Laminate Flooring | 12.3mm x 4.96\"",
+   "url": "https://topfloorings.com/products/sunshiny-sl1093-laminate-flooring-12-3mm-x-4-96",
+   "price_per_box": 31.4,
+   "sqft_per_box": 19.75,
+   "price_per_sqft": 1.59,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Sunshiny SL1123 Laminate Flooring | AC3 | 12mm x 4.96\"",
+   "url": "https://topfloorings.com/products/sunshiny-sl1123-laminate-flooring-12mm-x-4-96-china",
+   "price_per_box": 31.4,
+   "sqft_per_box": 19.75,
+   "price_per_sqft": 1.59,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Sunshiny SL1052 Laminate Flooring | AC3 | 12mm x 4.96\"",
+   "url": "https://topfloorings.com/products/sunshiny-sl1052-laminate-flooring-12mm-x-4-96-china",
+   "price_per_box": 31.4,
+   "sqft_per_box": 19.75,
+   "price_per_sqft": 1.59,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Krono K6201 Hagen Beech Laminate Flooring | AC3 | 12mm x 5\"",
+   "url": "https://topfloorings.com/products/krono-k6201-hagen-beech-laminate-flooring-ac3-12mm-x-5",
+   "price_per_box": 23.0,
+   "sqft_per_box": 13.61,
+   "price_per_sqft": 1.69,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Krono K6205 Hanover Oak Laminate Flooring | AC3 | 12mm x 5\"",
+   "url": "https://topfloorings.com/products/krono-k6205-hanover-oak-laminate-flooring-ac3-12mm-x-5",
+   "price_per_box": 23.0,
+   "sqft_per_box": 13.61,
+   "price_per_sqft": 1.69,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Krono E6200 Kassel Walnut Laminate Flooring | AC3 | 12mm x 5\"",
+   "url": "https://topfloorings.com/products/krono-e6200-kassel-walnut-laminate-flooring-ac3-12mm-x-5",
+   "price_per_box": 23.0,
+   "sqft_per_box": 13.61,
+   "price_per_sqft": 1.69,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Krono K2062 Natural Oak Laminate Flooring | AC3 | 12mm x 5\"",
+   "url": "https://topfloorings.com/products/krono-k2062-natural-oak-laminate-flooring-ac3-12mm-x-5",
+   "price_per_box": 23.0,
+   "sqft_per_box": 13.61,
+   "price_per_sqft": 1.69,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Krono K6207 Laminate Flooring | AC3 | 12mm x 5\" | Germany",
+   "url": "https://topfloorings.com/products/krono-k6207-laminate-flooring-12mm-x-5-germany",
+   "price_per_box": 23.0,
+   "sqft_per_box": 13.61,
+   "price_per_sqft": 1.69,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Amber Walnut \u2013 Riche Flooring Toronto Collection 12mm EIR Laminate",
+   "url": "https://topfloorings.com/products/amber-walnut-richie-flooring-toronto-collection-12mm-eir-laminate",
+   "price_per_box": 26.03,
+   "sqft_per_box": 15.4,
+   "price_per_sqft": 1.69,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Champagne Oak \u2013 Riche Flooring Toronto Collection 12mm EIR Laminate",
+   "url": "https://topfloorings.com/products/champagne-oak-richie-flooring-toronto-collection-12mm-eir-laminate-copy",
+   "price_per_box": 26.03,
+   "sqft_per_box": 15.4,
+   "price_per_sqft": 1.69,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Warm Parchment \u2013 Riche Flooring Toronto Collection 12mm EIR Laminate",
+   "url": "https://topfloorings.com/products/warm-parchment-richie-flooring-toronto-collection-12mm-eir-laminate",
+   "price_per_box": 26.03,
+   "sqft_per_box": 15.4,
+   "price_per_sqft": 1.69,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Desert Sand \u2013 Riche Flooring Toronto Collection 12mm EIR Laminate",
+   "url": "https://topfloorings.com/products/desert-sand-richie-flooring-toronto-collection-12mm-eir-laminate",
+   "price_per_box": 26.03,
+   "sqft_per_box": 15.4,
+   "price_per_sqft": 1.69,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Ivory Birch \u2013 Riche Flooring Toronto Collection 12mm EIR Laminate",
+   "url": "https://topfloorings.com/products/ivory-birch-richie-flooring-toronto-collection-12mm-eir-laminate",
+   "price_per_box": 26.03,
+   "sqft_per_box": 15.4,
+   "price_per_sqft": 1.69,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Dark Tobacco \u2013 Riche Flooring Toronto Collection 12mm EIR Laminate",
+   "url": "https://topfloorings.com/products/dark-tobacco-richie-flooring-toronto-collection-12mm-eir-laminate-copy",
+   "price_per_box": 26.03,
+   "sqft_per_box": 15.4,
+   "price_per_sqft": 1.69,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Nordic Frost \u2013 Riche Flooring Toronto Collection 12mm EIR Laminate",
+   "url": "https://topfloorings.com/products/nordic-sand-richie-flooring-toronto-collection-12mm-eir-laminate",
+   "price_per_box": 26.03,
+   "sqft_per_box": 15.4,
+   "price_per_sqft": 1.69,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Smoked Hazel \u2013 Riche Flooring Toronto Collection 12mm EIR Laminate",
+   "url": "https://topfloorings.com/products/urban-loft-richie-flooring-toronto-collection-12mm-eir-laminate-copy",
+   "price_per_box": 26.03,
+   "sqft_per_box": 15.4,
+   "price_per_sqft": 1.69,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Sandy Driftwood \u2013 Riche Flooring Toronto Collection 12mm EIR Laminate",
+   "url": "https://topfloorings.com/products/color-name-richie-flooring-toronto-collection-12mm-eir-laminate",
+   "price_per_box": 26.03,
+   "sqft_per_box": 15.4,
+   "price_per_sqft": 1.69,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Sunshiny SL112 Laminate Flooring | AC3 | 15mm x 4.41\"",
+   "url": "https://topfloorings.com/products/sunshiny-sl112-laminate-flooring-15mm-x-4-41-china",
+   "price_per_box": 24.49,
+   "sqft_per_box": 13.75,
+   "price_per_sqft": 1.78,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Swiss Krono Wild Limed Oak 10mm Laminate Flooring (D2413)",
+   "url": "https://topfloorings.com/products/swiss-krono-wild-limed-oak-10mm-laminate-flooring-d2413",
+   "price_per_box": 29.59,
+   "sqft_per_box": 16.53,
+   "price_per_sqft": 1.79,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Swiss Krono Ascona Oak 10mm Laminate Flooring - AC3 (D3782)",
+   "url": "https://topfloorings.com/products/swiss-krono-ascona-oak-10mm-ac3-laminate-flooring-d3782",
+   "price_per_box": 29.59,
+   "sqft_per_box": 16.53,
+   "price_per_sqft": 1.79,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Swiss Krono D8013 Helsinki Oak Laminate Flooring | 10mm x 6.26\"",
+   "url": "https://topfloorings.com/products/swiss-krono-d8013-helsinki-oak-laminate-flooring-10mm-x-6-26",
+   "price_per_box": 29.59,
+   "sqft_per_box": 16.53,
+   "price_per_sqft": 1.79,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Swiss Krono D2439 Chocolate Laminate Flooring | 10mm x 6.26\"",
+   "url": "https://topfloorings.com/products/swiss-krono-d2439-chocolate-laminate-flooring-10mm-x-6-26",
+   "price_per_box": 29.59,
+   "sqft_per_box": 16.53,
+   "price_per_sqft": 1.79,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Swiss Krono D2833 Camargue Oak Laminate Flooring | AC5 | 10mm x 6.26\" | Switzerland",
+   "url": "https://topfloorings.com/products/swiss-krono-d2833-camargue-oak-laminate-flooring-10mm-x-6-26",
+   "price_per_box": 29.59,
+   "sqft_per_box": 16.53,
+   "price_per_sqft": 1.79,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Egger EM7197 Garrison Oak Natural Laminate Flooring | AC3 | 8mm x 7.60\" | Germany",
+   "url": "https://topfloorings.com/products/egger-em7197-garrison-oak-natural-laminate-flooring-ac3-8mm-x-7-60-germany",
+   "price_per_box": 40.48,
+   "sqft_per_box": 21.42,
+   "price_per_sqft": 1.89,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Egger EM7190 Siberian Larch Laminate Flooring | AC3 | 8mm x 7.60\" | Germany",
+   "url": "https://topfloorings.com/products/egger-em7190-siberian-larch-laminate-flooring-ac3-8mm-x-7-60-germany",
+   "price_per_box": 40.48,
+   "sqft_per_box": 21.42,
+   "price_per_sqft": 1.89,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Egger EM7151 Girona Chestnut Laminate Flooring | AC3 | 8mm x 7.60\" | Germany",
+   "url": "https://topfloorings.com/products/egger-em7151-girona-chestnut-laminate-flooring-ac3-8mm-x-7-60-germany",
+   "price_per_box": 40.48,
+   "sqft_per_box": 21.42,
+   "price_per_sqft": 1.89,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Egger EM3209 Laminate Flooring | AC3 | 8mm x 7.60\" | Germany",
+   "url": "https://topfloorings.com/products/egger-em3209-laminate-flooring-8mm-x-7-60-germany",
+   "price_per_box": 40.48,
+   "sqft_per_box": 21.42,
+   "price_per_sqft": 1.89,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Egger EM7206 Laminate Flooring | AC3 | 8mm x 7.60\" | Germany",
+   "url": "https://topfloorings.com/products/egger-em7206-laminate-flooring-8mm-x-7-60-germany",
+   "price_per_box": 40.48,
+   "sqft_per_box": 21.42,
+   "price_per_sqft": 1.89,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Swiss Krono Trend Oak Dark 10mm Laminate Flooring (D3127)",
+   "url": "https://topfloorings.com/products/swiss-krono-trend-oak-dark-10mm-laminate-flooring-d3127",
+   "price_per_box": 34.22,
+   "sqft_per_box": 17.2,
+   "price_per_sqft": 1.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Swiss Krono Century Oak 10mm Laminate Flooring - AC4 (D4177)",
+   "url": "https://topfloorings.com/products/swiss-krono-century-oak-10mm-ac4-laminate-flooring-d4177",
+   "price_per_box": 34.22,
+   "sqft_per_box": 17.2,
+   "price_per_sqft": 1.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Swiss Krono D2300 American Walnut Laminate Flooring | 10mm x 6.26\"",
+   "url": "https://topfloorings.com/products/swiss-krono-d2300-american-walnut-laminate-flooring-10mm-x-6-26",
+   "price_per_box": 32.9,
+   "sqft_per_box": 16.53,
+   "price_per_sqft": 1.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Sunshiny SL7053 Laminate Flooring | 15mm x 5\"",
+   "url": "https://topfloorings.com/products/sunshiny-sl7053-laminate-flooring-15mm-x-5",
+   "price_per_box": 32.99,
+   "sqft_per_box": 16.58,
+   "price_per_sqft": 1.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Sunshiny SL7302 Laminate Flooring | 15mm x 5\"",
+   "url": "https://topfloorings.com/products/sunshiny-sl7302-laminate-flooring-15mm-x-5",
+   "price_per_box": 32.99,
+   "sqft_per_box": 16.58,
+   "price_per_sqft": 1.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Sunshiny SL7318 Laminate Flooring | 15mm x 5\"",
+   "url": "https://topfloorings.com/products/sunshiny-sl7318-laminate-flooring-15mm-x-5",
+   "price_per_box": 32.99,
+   "sqft_per_box": 16.58,
+   "price_per_sqft": 1.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Sunshiny SL7645 Laminate Flooring | 15mm x 5\"",
+   "url": "https://topfloorings.com/products/sunshiny-sl7645-laminate-flooring-15mm-x-5",
+   "price_per_box": 32.99,
+   "sqft_per_box": 16.58,
+   "price_per_sqft": 1.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Sunshiny SL7104 Laminate Flooring | 15mm x 5\"",
+   "url": "https://topfloorings.com/products/sunshiny-sl7104-laminate-flooring-15mm-x-5",
+   "price_per_box": 32.99,
+   "sqft_per_box": 16.58,
+   "price_per_sqft": 1.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Sunshiny SL7143 Laminate Flooring | 15mm x 5\"",
+   "url": "https://topfloorings.com/products/sunshiny-sl7143-laminate-flooring-15mm-x-5",
+   "price_per_box": 32.99,
+   "sqft_per_box": 16.58,
+   "price_per_sqft": 1.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Sunshiny SL7390 Laminate Flooring | 15mm x 5\"",
+   "url": "https://topfloorings.com/products/sunshiny-sl7390-laminate-flooring-15mm-x-5",
+   "price_per_box": 32.99,
+   "sqft_per_box": 16.58,
+   "price_per_sqft": 1.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Sunshiny SL7101 Laminate Flooring | 15mm x 5\"",
+   "url": "https://topfloorings.com/products/sunshiny-sl7101-laminate-flooring-15mm-x-5",
+   "price_per_box": 32.99,
+   "sqft_per_box": 16.58,
+   "price_per_sqft": 1.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Sunshiny SL7041 Laminate Flooring | 15mm x 5\"",
+   "url": "https://topfloorings.com/products/sunshiny-sl7041-laminate-flooring-15mm-x-5",
+   "price_per_box": 32.99,
+   "sqft_per_box": 16.58,
+   "price_per_sqft": 1.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Sunshiny SL7218 Laminate Flooring | 15mm x 5\"",
+   "url": "https://topfloorings.com/products/sunshiny-sl7218-laminate-flooring-15mm-x-5",
+   "price_per_box": 32.99,
+   "sqft_per_box": 16.58,
+   "price_per_sqft": 1.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Egger EM7195 Northland Oak Laminate Flooring | AC4 | 8mm x 7.60\" | Germany",
+   "url": "https://topfloorings.com/products/egger-em7195-northland-oak-laminate-flooring-ac4-8mm-x-7-60-germany",
+   "price_per_box": 42.63,
+   "sqft_per_box": 21.42,
+   "price_per_sqft": 1.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Egger EM7187 Arosa Pear Creme Laminate Flooring | AC4 | 8mm x 7.60\" | Germany",
+   "url": "https://topfloorings.com/products/egger-em7187-arosa-pear-creme-laminate-flooring-ac4-8mm-x-7-60-germany",
+   "price_per_box": 42.63,
+   "sqft_per_box": 21.42,
+   "price_per_sqft": 1.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Egger EM3108 Italian Walnut Laminate Flooring | AC4 | 8mm x 7.60\" | Germany",
+   "url": "https://topfloorings.com/products/egger-em3108-italian-walnut-laminate-flooring-ac4-8mm-x-7-60-germany",
+   "price_per_box": 42.63,
+   "sqft_per_box": 21.42,
+   "price_per_sqft": 1.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Egger EM7194 Northland Oak Light Laminate Flooring | AC4 | 8mm x 7.60\" | Germany",
+   "url": "https://topfloorings.com/products/egger-em7194-northland-oak-light-laminate-flooring-8mm-x-7-60-germany",
+   "price_per_box": 42.63,
+   "sqft_per_box": 21.42,
+   "price_per_sqft": 1.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Egger EM7192 Montana Pine Silver Laminate Flooring | AC4 | 8mm x 7.60\" | Germany",
+   "url": "https://topfloorings.com/products/egger-em7192-montana-pine-silver-laminate-flooring-8mm-x-7-60-germany",
+   "price_per_box": 42.63,
+   "sqft_per_box": 21.42,
+   "price_per_sqft": 1.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Egger EM7186 Novara Beech Laminate Flooring | AC4 | 8mm x 7.60\" | Germany",
+   "url": "https://topfloorings.com/products/egger-em7186-novara-beech-laminate-flooring-8mm-x-7-60-germany",
+   "price_per_box": 42.63,
+   "sqft_per_box": 21.42,
+   "price_per_sqft": 1.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Egger EM7178 Moor Acacia Laminate Flooring | AC4 | 8mm x 7.60\" | Germany",
+   "url": "https://topfloorings.com/products/egger-em7178-moor-acacia-laminate-flooring-8mm-x-7-60-germany",
+   "price_per_box": 42.63,
+   "sqft_per_box": 21.42,
+   "price_per_sqft": 1.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Egger EM7200 Laminate Flooring | AC4 | 8mm x 7.60\" | Germany",
+   "url": "https://topfloorings.com/products/egger-em7200-laminate-flooring-8mm-x-7-60-germany",
+   "price_per_box": 42.63,
+   "sqft_per_box": 21.42,
+   "price_per_sqft": 1.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Egger EM7188 Laminate Flooring | AC4 | 8mm x 7.60\" | Germany",
+   "url": "https://topfloorings.com/products/egger-em7188-laminate-flooring-8mm-x-7-60-germany",
+   "price_per_box": 42.63,
+   "sqft_per_box": 21.42,
+   "price_per_sqft": 1.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Egger EM7199 Laminate Flooring | AC4 | 8mm x 7.60\" | Germany",
+   "url": "https://topfloorings.com/products/egger-em7199-laminate-flooring-8mm-x-7-60-germany",
+   "price_per_box": 42.63,
+   "sqft_per_box": 21.42,
+   "price_per_sqft": 1.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Krono K8630 Laminate Flooring | 10mm | 5\" Wide | AC4 | Made in Germany",
+   "url": "https://topfloorings.com/products/krono-k8630-laminate-flooring-10mm-x-5-germany",
+   "price_per_box": 30.46,
+   "sqft_per_box": 15.31,
+   "price_per_sqft": 1.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Sunshiny SL7386 Laminate Flooring | 15mm x 5\"",
+   "url": "https://topfloorings.com/products/sunshiny-sl7386-laminate-flooring-15mm-x-5",
+   "price_per_box": 32.99,
+   "sqft_per_box": 16.58,
+   "price_per_sqft": 1.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Quickstyle Q34369 Oak Laminate Flooring | 12mm x 6 1/4\"",
+   "url": "https://topfloorings.com/products/quickstyle-q34369-oak-laminate-flooring-12mm-x-6-1-4",
+   "price_per_box": 37.93,
+   "sqft_per_box": 18.94,
+   "price_per_sqft": 2.0,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Swiss Krono D8014 New York Oak Laminate Flooring | AC4 | 12mm x 6.26\"",
+   "url": "https://topfloorings.com/products/swiss-krono-d8014-new-york-oak-laminate-flooring-ac4-12mm-x-6-26",
+   "price_per_box": 32.44,
+   "sqft_per_box": 14.17,
+   "price_per_sqft": 2.29,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Kronoswiss D3040 Laminate Flooring | AC4 | 12mm x 6.26\" | Switzerland",
+   "url": "https://topfloorings.com/products/kronoswiss-d3040-laminate-flooring-12mm-x-6-26-switzerland",
+   "price_per_box": 32.44,
+   "sqft_per_box": 14.17,
+   "price_per_sqft": 2.29,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Swiss Krono Chocolate Laminate Flooring | AC4 | 12mm x 6.26\"",
+   "url": "https://topfloorings.com/products/swiss-krono-chocolate-laminate-flooring-ac4-12mm-x-6-26",
+   "price_per_box": 33.15,
+   "sqft_per_box": 14.17,
+   "price_per_sqft": 2.34,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Krono K6777 Madrid Laminate Flooring | AC3 | 12mm x 4.84\" | Germany",
+   "url": "https://topfloorings.com/products/krono-k6777-madrid-laminate-flooring-ac3-12mm-x-4-84-germany",
+   "price_per_box": 32.53,
+   "sqft_per_box": 13.61,
+   "price_per_sqft": 2.39,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Krono K6773 Barcelona Laminate Flooring | AC3 | 12mm x 4.84\" | Germany",
+   "url": "https://topfloorings.com/products/krono-k6773-barcelona-laminate-flooring-ac3-12mm-x-4-84-germany",
+   "price_per_box": 32.53,
+   "sqft_per_box": 13.61,
+   "price_per_sqft": 2.39,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Krono K6772 Rome Laminate Flooring | AC3 | 12mm x 4.84\" | Germany",
+   "url": "https://topfloorings.com/products/krono-k6772-rome-laminate-flooring-ac3-12mm-x-4-84-germany",
+   "price_per_box": 32.53,
+   "sqft_per_box": 13.61,
+   "price_per_sqft": 2.39,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Krono K6771 Paris Laminate Flooring | AC3 | 12mm x 4.84\" | Germany",
+   "url": "https://topfloorings.com/products/krono-k6771-paris-laminate-flooring-ac3-12mm-x-4-84-germany",
+   "price_per_box": 32.53,
+   "sqft_per_box": 13.61,
+   "price_per_sqft": 2.39,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Kronotex 4754 Iceland Laminate Flooring | AC5 | 10mm x 6.18\" | Germany",
+   "url": "https://topfloorings.com/products/kronotex-4754-iceland-laminate-flooring-10mm-x-6-18-germany",
+   "price_per_box": 33.44,
+   "sqft_per_box": 13.99,
+   "price_per_sqft": 2.39,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Kronotex 4166 Prestige Oak Nature Laminate Flooring | AC5 | 10mm x 6.18\" | Germany",
+   "url": "https://topfloorings.com/products/kronotex-4166-prestige-oak-nature-laminate-flooring-10mm-x-6-18-germany",
+   "price_per_box": 33.44,
+   "sqft_per_box": 13.99,
+   "price_per_sqft": 2.39,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Kronotex 2987 Whitewashed Oak Laminate Flooring | AC5 | 10mm x 6.18\" | Germany",
+   "url": "https://topfloorings.com/products/kronotex-2987-whitewashed-oak-laminate-flooring-10mm-x-6-18-germany",
+   "price_per_box": 33.44,
+   "sqft_per_box": 13.99,
+   "price_per_sqft": 2.39,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Kronotex 3070 Tuscany Walnut Laminate Flooring | AC5 | 10mm x 6.18\" | Germany",
+   "url": "https://topfloorings.com/products/kronotex-3070-tuscany-walnut-laminate-flooring-10mm-x-6-18-germany",
+   "price_per_box": 33.44,
+   "sqft_per_box": 13.99,
+   "price_per_sqft": 2.39,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Kronotex 4169 Prestige Oak Light Laminate Flooring | AC5 | 10mm x 6.18\" | Germany",
+   "url": "https://topfloorings.com/products/kronotex-4169-prestige-oak-light-laminate-flooring-10mm-x-6-18-germany",
+   "price_per_box": 33.44,
+   "sqft_per_box": 13.99,
+   "price_per_sqft": 2.39,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Krono 771 Rosseau Pecan Laminate Flooring | AC3 | 12mm x 7.56\" | Germany",
+   "url": "https://topfloorings.com/products/krono-771-rosseau-pecan-laminate-flooring-ac3-12mm-x-7-56-germany",
+   "price_per_box": 31.64,
+   "sqft_per_box": 13.24,
+   "price_per_sqft": 2.39,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Krono 772 East Bay Oak Laminate Flooring | AC3 | 12mm x 7.56\" | Germany",
+   "url": "https://topfloorings.com/products/krono-772-east-bay-oak-laminate-flooring-ac3-12mm-x-7-56-germany",
+   "price_per_box": 31.64,
+   "sqft_per_box": 13.24,
+   "price_per_sqft": 2.39,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Krono 770 Windermere Oak Laminate Flooring | AC3 | 12mm x 7.56\" | Germany",
+   "url": "https://topfloorings.com/products/krono-770-windermere-oak-laminate-flooring-ac3-12mm-x-7-56-germany",
+   "price_per_box": 31.64,
+   "sqft_per_box": 13.24,
+   "price_per_sqft": 2.39,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Krono K8219 Midnight Walnut Laminate Flooring | AC3 | 12mm x 5\" | Germany",
+   "url": "https://topfloorings.com/products/krono-k8219-midnight-walnut-laminate-flooring-ac3-12mm-x-5-germany",
+   "price_per_box": 32.53,
+   "sqft_per_box": 13.61,
+   "price_per_sqft": 2.39,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Krono K6992 Pika Laminate Flooring | AC3 | 12mm x 5\" | Germany",
+   "url": "https://topfloorings.com/products/krono-k6992-pika-laminate-flooring-ac3-12mm-x-5-germany",
+   "price_per_box": 32.53,
+   "sqft_per_box": 13.61,
+   "price_per_sqft": 2.39,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Krono K8214 Smog Walnut Laminate Flooring | AC3 | 12mm x 5\"",
+   "url": "https://topfloorings.com/products/krono-k8214-smog-walnut-laminate-flooring-ac3-12mm-x-5",
+   "price_per_box": 32.53,
+   "sqft_per_box": 13.61,
+   "price_per_sqft": 2.39,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Krono K6997 Caramel Oak Laminate Flooring | AC3 | 12mm x 5\" | Germany",
+   "url": "https://topfloorings.com/products/krono-k6997-caramel-oak-laminate-flooring-ac3-12mm-x-5-germany",
+   "price_per_box": 32.53,
+   "sqft_per_box": 13.61,
+   "price_per_sqft": 2.39,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Krono K6990 Hurricane Oak Laminate Flooring | AC3 | 12mm x 5\" | Germany",
+   "url": "https://topfloorings.com/products/krono-k6990-hurricane-oak-laminate-flooring-ac3-12mm-x-5-germany",
+   "price_per_box": 32.53,
+   "sqft_per_box": 13.61,
+   "price_per_sqft": 2.39,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Krono 773 Laminate Flooring | AC3 | 12mm x 7.56\" | Germany",
+   "url": "https://topfloorings.com/products/krono-773-laminate-flooring-12mm-x-7-56-germany",
+   "price_per_box": 31.64,
+   "sqft_per_box": 13.24,
+   "price_per_sqft": 2.39,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Krono K8215 Laminate Flooring | AC3 | 12mm x 5\" | Germany",
+   "url": "https://topfloorings.com/products/krono-k8215-laminate-flooring-12mm-x-5-germany",
+   "price_per_box": 32.53,
+   "sqft_per_box": 13.61,
+   "price_per_sqft": 2.39,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Krono K6991 Brick Oak Laminate Flooring | AC4 | 12mm x 7.5\" | Germany",
+   "url": "https://topfloorings.com/products/krono-k6991-brick-oak-laminate-flooring-12mm-x-7-5-germany",
+   "price_per_box": 38.07,
+   "sqft_per_box": 15.93,
+   "price_per_sqft": 2.39,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Krono K6775 Laminate Flooring | AC3 | 12mm x 5\" | Germany",
+   "url": "https://topfloorings.com/products/krono-k6775-laminate-flooring-12mm-x-5-germany",
+   "price_per_box": 32.53,
+   "sqft_per_box": 13.61,
+   "price_per_sqft": 2.39,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Krono Original 12mm Brook Walnut Laminate Flooring - AC3 Residential Grade - Made in Germany (K8217)",
+   "url": "https://topfloorings.com/products/krono-original-brook-walnut-12mm-ac3-laminate-flooring-k8217",
+   "price_per_box": 32.53,
+   "sqft_per_box": 13.61,
+   "price_per_sqft": 2.39,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Krono K5625 Teak Laminate Flooring | AC4 | 12mm x 5\"",
+   "url": "https://topfloorings.com/products/krono-k5625-teak-laminate-flooring-ac4-12mm-x-5",
+   "price_per_box": 28.39,
+   "sqft_per_box": 11.4,
+   "price_per_sqft": 2.49,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Riche RL9299 Southwark Oak Laminate Flooring | 12mm x 3.54\"",
+   "url": "https://topfloorings.com/products/riche-rl9299-southwark-oak-laminate-flooring-ac3-12mm-x-3-54",
+   "price_per_box": 35.26,
+   "sqft_per_box": 14.16,
+   "price_per_sqft": 2.49,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Riche RL9113 Butterscotch Oak Laminate Flooring | 12mm x 3.54\"",
+   "url": "https://topfloorings.com/products/riche-rl9113-butterscotch-oak-laminate-flooring-ac3-12mm-x-3-54",
+   "price_per_box": 35.26,
+   "sqft_per_box": 14.16,
+   "price_per_sqft": 2.49,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Riche RL9137 Kahlua Oak Laminate Flooring | 12mm x 3.54\"",
+   "url": "https://topfloorings.com/products/riche-rl9137-kahlua-oak-laminate-flooring-ac3-12mm-x-3-54",
+   "price_per_box": 35.26,
+   "sqft_per_box": 14.16,
+   "price_per_sqft": 2.49,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Riche RL9285 Laminate Flooring | AC3 | 12mm x 3.54\"",
+   "url": "https://topfloorings.com/products/riche-rl9285-laminate-flooring-12mm-x-3-54",
+   "price_per_box": 35.26,
+   "sqft_per_box": 14.16,
+   "price_per_sqft": 2.49,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Swiss Krono 10mm Beige Laminate Flooring - AC5 Commercial Grade - Made in Germany (M1002)",
+   "url": "https://topfloorings.com/products/swiss-krono-beige-10mm-ac5-laminate-flooring-m1002",
+   "price_per_box": 42.83,
+   "sqft_per_box": 17.22,
+   "price_per_sqft": 2.49,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Swiss Krono 10mm Grey Oak Laminate Flooring - AC5 Commercial Grade - Made in Germany (MV 803)",
+   "url": "https://topfloorings.com/products/swiss-krono-grey-oak-10mm-ac5-laminate-flooring-mv-803",
+   "price_per_box": 42.83,
+   "sqft_per_box": 17.22,
+   "price_per_sqft": 2.49,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Egger EM7208 Laminate Flooring | AC5 | 11mm x 7.60\" | Germany",
+   "url": "https://topfloorings.com/products/egger-em7208-laminate-flooring-11mm-x-7-60-germany",
+   "price_per_box": 40.48,
+   "sqft_per_box": 16.15,
+   "price_per_sqft": 2.51,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Swiss Krono 10mm Chestnut Laminate Flooring - AC5 Commercial Grade - Made in Germany (M1005)",
+   "url": "https://topfloorings.com/products/swiss-krono-chestnut-10mm-ac5-laminate-flooring-m1005",
+   "price_per_box": 49.77,
+   "sqft_per_box": 17.22,
+   "price_per_sqft": 2.89,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Krono K230 Golden Vista Oak Laminate Flooring | AC6 | 14mm x 7.56\" | Germany",
+   "url": "https://topfloorings.com/products/krono-k230-golden-vista-oak-laminate-flooring-ac6-14mm-x-7-56-germany",
+   "price_per_box": 39.71,
+   "sqft_per_box": 13.28,
+   "price_per_sqft": 2.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Kronotex 4791 Makro Oak Brown Laminate Flooring | AC5 | 10mm x 9.61\" | Germany",
+   "url": "https://topfloorings.com/products/kronotex-4791-makro-oak-brown-laminate-flooring-10mm-x-9-61-germany",
+   "price_per_box": 57.92,
+   "sqft_per_box": 19.38,
+   "price_per_sqft": 2.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Krono K8255 Attis Oak Laminate Flooring | AC5 | 12mm x 6.18\" | Germany",
+   "url": "https://topfloorings.com/products/krono-k8255-attis-oak-laminate-flooring-ac5-12mm-x-6-18-germany",
+   "price_per_box": 51.94,
+   "sqft_per_box": 17.37,
+   "price_per_sqft": 2.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Krono K8250 Apollo Pine Laminate Flooring | AC5 | 12mm x 6.18\" | Germany",
+   "url": "https://topfloorings.com/products/krono-k8250-apollo-pine-laminate-flooring-ac5-12mm-x-6-18-germany",
+   "price_per_box": 51.94,
+   "sqft_per_box": 17.37,
+   "price_per_sqft": 2.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Top Floorings RL9124 Laminate Flooring | 12mm x 3.54\"",
+   "url": "https://topfloorings.com/products/top-floorings-rl9124-laminate-flooring-12mm-x-3-54",
+   "price_per_box": 42.34,
+   "sqft_per_box": 14.16,
+   "price_per_sqft": 2.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Egger EM7131 Woodwork Oak Laminate Flooring | AC5 | 11mm x 7.60\" | Germany",
+   "url": "https://topfloorings.com/products/egger-em7131-woodwork-oak-laminate-flooring-11mm-x-7-60-germany",
+   "price_per_box": 48.29,
+   "sqft_per_box": 16.15,
+   "price_per_sqft": 2.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Egger EM3110 Oxford Oak Laminate Flooring | AC5 | 11mm x 7.60\" | Germany",
+   "url": "https://topfloorings.com/products/egger-em3110-oxford-oak-laminate-flooring-11mm-x-7-60-germany",
+   "price_per_box": 48.29,
+   "sqft_per_box": 16.15,
+   "price_per_sqft": 2.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Egger EM7201 Laminate Flooring | AC5 | 11mm x 7.60\" | Germany",
+   "url": "https://topfloorings.com/products/egger-em7201-laminate-flooring-11mm-x-7-60-germany",
+   "price_per_box": 48.29,
+   "sqft_per_box": 16.15,
+   "price_per_sqft": 2.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Egger EM7204 Laminate Flooring | AC5 | 11mm x 7.60\" | Germany",
+   "url": "https://topfloorings.com/products/egger-em7204-laminate-flooring-11mm-x-7-60-germany",
+   "price_per_box": 48.29,
+   "sqft_per_box": 16.15,
+   "price_per_sqft": 2.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Krono K8254 Laminate Flooring | AC5 | 12mm x 6.18\" | Germany",
+   "url": "https://topfloorings.com/products/krono-k8254-laminate-flooring-12mm-x-6-18-germany",
+   "price_per_box": 51.94,
+   "sqft_per_box": 17.37,
+   "price_per_sqft": 2.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Kronotex 4793 Laminate Flooring | AC5 | 10mm x 9.61\" | Germany",
+   "url": "https://topfloorings.com/products/kronotex-4793-laminate-flooring-10mm-x-9-61-germany",
+   "price_per_box": 57.92,
+   "sqft_per_box": 19.37,
+   "price_per_sqft": 2.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Kronotex 4796 Laminate Flooring | AC5 | 10mm x 9.61\" | Germany",
+   "url": "https://topfloorings.com/products/kronotex-4796-laminate-flooring-10mm-x-9-61-germany",
+   "price_per_box": 57.92,
+   "sqft_per_box": 19.37,
+   "price_per_sqft": 2.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Kronotex 4792 Laminate Flooring | AC5 | 10m2934m x 9.61\" | Germany",
+   "url": "https://topfloorings.com/products/kronotex-4792-laminate-flooring-10mm-x-9-61-germany",
+   "price_per_box": 57.92,
+   "sqft_per_box": 19.37,
+   "price_per_sqft": 2.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Kronotex 4798 Laminate Flooring | AC5 | 10mm x 9.61\" | Germany",
+   "url": "https://topfloorings.com/products/kronotex-4798-laminate-flooring-10mm-x-9-61-germany",
+   "price_per_box": 57.92,
+   "sqft_per_box": 19.37,
+   "price_per_sqft": 2.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Swiss Krono 14mm Witches Wood Laminate Flooring - AC6 Ultimate Grade - Made in Germany (K232)",
+   "url": "https://topfloorings.com/products/swiss-krono-witches-wood-14mm-ac6-laminate-flooring-k232",
+   "price_per_box": 39.71,
+   "sqft_per_box": 13.28,
+   "price_per_sqft": 2.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Swiss Krono 14mm Native Urban Pine Laminate Flooring - AC6 Ultimate Grade - Made in Germany (K225)",
+   "url": "https://topfloorings.com/products/swiss-krono-native-urban-pine-14mm-ac6-laminate-flooring-k225",
+   "price_per_box": 39.71,
+   "sqft_per_box": 13.28,
+   "price_per_sqft": 2.99,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Floorpan Barcelona No.014 Laminate Flooring | AC5 | 12mm x 7-5/8\" | Europe",
+   "url": "https://topfloorings.com/products/floorpan-barcelona-no-014-laminate-flooring-12mm-x-7-5-8-europe",
+   "price_per_box": 60.54,
+   "sqft_per_box": 20.18,
+   "price_per_sqft": 3.0,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Goodfellow Revival No.031 Laminate Flooring | AC5 | 12mm x 7-5/8\" | Europe",
+   "url": "https://topfloorings.com/products/goodfellow-revival-no-031-laminate-flooring-12mm-x-7-5-8-europe",
+   "price_per_box": 60.54,
+   "sqft_per_box": 20.18,
+   "price_per_sqft": 3.0,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Goodfellow Poznan No.045 Laminate Flooring | AC5 | 12mm x 7-5/8\" | Europe",
+   "url": "https://topfloorings.com/products/goodfellow-poznan-no-045-laminate-flooring-12mm-x-7-5-8-europe",
+   "price_per_box": 60.54,
+   "sqft_per_box": 20.18,
+   "price_per_sqft": 3.0,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Goodfellow Prag No.028 Laminate Flooring | AC5 | 12mm x 7-5/8\" | Europe",
+   "url": "https://topfloorings.com/products/goodfellow-prag-no-028-laminate-flooring-12mm-x-7-5-8-europe",
+   "price_per_box": 60.54,
+   "sqft_per_box": 20.18,
+   "price_per_sqft": 3.0,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Goodfellow Shanghai No.029 Laminate Flooring | AC5 | 12mm x 7-5/8\" | Europe",
+   "url": "https://topfloorings.com/products/goodfellow-shanghai-no-029-laminate-flooring-12mm-x-7-5-8-europe",
+   "price_per_box": 60.99,
+   "sqft_per_box": 20.18,
+   "price_per_sqft": 3.02,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Goodfellow Devine No.026 Laminate Flooring | AC5 | 12mm x 7-5/8\" | Europe",
+   "url": "https://topfloorings.com/products/goodfellow-devine-no-026-laminate-flooring-12mm-x-7-5-8-europe",
+   "price_per_box": 60.99,
+   "sqft_per_box": 20.18,
+   "price_per_sqft": 3.02,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Goodfellow Peking No.012 Laminate Flooring | AC5 | 12mm x 7-5/8\" | Europe",
+   "url": "https://topfloorings.com/products/goodfellow-peking-no-012-laminate-flooring-12mm-x-7-5-8-europe",
+   "price_per_box": 60.99,
+   "sqft_per_box": 20.18,
+   "price_per_sqft": 3.02,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Kronotex 3081 Everest Oak Beige Laminate Flooring | AC5 | 12mm x 7.4\" | Germany",
+   "url": "https://topfloorings.com/products/kronotex-3081-everest-oak-beige-laminate-flooring-12mm-x-7-4-germany",
+   "price_per_box": 46.13,
+   "sqft_per_box": 14.93,
+   "price_per_sqft": 3.09,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Kronotex 3076 Everest Oak Laminate Flooring | AC5 | 12mm x 7.4\" | Germany",
+   "url": "https://topfloorings.com/products/kronotex-3076-everest-oak-laminate-flooring-12mm-x-7-4-germany",
+   "price_per_box": 46.13,
+   "sqft_per_box": 14.93,
+   "price_per_sqft": 3.09,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Kronotex 3179 Everest Oak White Laminate Flooring | AC5 | 12mm x 7.4\" | Germany",
+   "url": "https://topfloorings.com/products/kronotex-3179-everest-oak-white-laminate-flooring-12mm-x-7-4-germany",
+   "price_per_box": 46.13,
+   "sqft_per_box": 14.93,
+   "price_per_sqft": 3.09,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Kronotex 3178 Laminate Flooring | AC5 | 12mm x 7.4\" | Germany",
+   "url": "https://topfloorings.com/products/kronotex-3178-laminate-flooring-12mm-x-7-4-germany",
+   "price_per_box": 46.13,
+   "sqft_per_box": 14.93,
+   "price_per_sqft": 3.09,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Kronotex 2999 Laminate Flooring | AC5 | 12mm x 7.4\" | Germany",
+   "url": "https://topfloorings.com/products/kronotex-2999-laminate-flooring-12mm-x-7-4-germany",
+   "price_per_box": 46.13,
+   "sqft_per_box": 14.93,
+   "price_per_sqft": 3.09,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Swiss Krono 14mm Wilderness Oak Laminate Flooring - AC6 Ultimate Grade - Made in Germany (K223)",
+   "url": "https://topfloorings.com/products/swiss-krono-14mm-wilderness-oak-laminate-flooring-ac6-ultimate-grade-made-in-germany-k223",
+   "price_per_box": 41.04,
+   "sqft_per_box": 13.28,
+   "price_per_sqft": 3.09,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Krono A2221 Chaotic Laminate Flooring | AC5 | 12mm x 7.56\"",
+   "url": "https://topfloorings.com/products/krono-a2221-chaotic-laminate-flooring-ac5-12mm-x-7-56",
+   "price_per_box": 51.94,
+   "sqft_per_box": 15.93,
+   "price_per_sqft": 3.26,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Krono A2220 Whisper Laminate Flooring | AC5 | 12mm x 7.56\"",
+   "url": "https://topfloorings.com/products/krono-a2220-whisper-laminate-flooring-ac5-12mm-x-7-56",
+   "price_per_box": 51.94,
+   "sqft_per_box": 15.93,
+   "price_per_sqft": 3.26,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Krono A2222 Laminate Flooring | AC5 | 12mm x 7.56\" | Germany",
+   "url": "https://topfloorings.com/products/krono-a2222-laminate-flooring-12mm-x-7-56-germany",
+   "price_per_box": 51.94,
+   "sqft_per_box": 15.93,
+   "price_per_sqft": 3.26,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Swiss Krono 14mm Lilywhite Oak Laminate Flooring - AC6 Ultimate Grade - Made in Germany (K226)",
+   "url": "https://topfloorings.com/products/swiss-krono-lilywhite-oak-14mm-ac6-laminate-flooring-k226",
+   "price_per_box": 45.0,
+   "sqft_per_box": 13.28,
+   "price_per_sqft": 3.39,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Swiss Krono Ecru Oak 12mm Laminate Flooring - AC5 (CR4192)",
+   "url": "https://topfloorings.com/products/swiss-krono-ecru-oak-12mm-ac5-laminate-flooring-cr4192",
+   "price_per_box": 51.45,
+   "sqft_per_box": 14.33,
+   "price_per_sqft": 3.59,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Swiss Krono Isabelline Oak 12mm Laminate Flooring - AC5 (CR4191)",
+   "url": "https://topfloorings.com/products/swiss-krono-isabelline-oak-12mm-ac5-laminate-flooring-cr4191",
+   "price_per_box": 51.45,
+   "sqft_per_box": 14.33,
+   "price_per_sqft": 3.59,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "laminate",
+   "title": "Kronoswiss CR3217 Laminate Flooring | 12mm | 7.60\" Wide | AC5 | Made in Switzerland",
+   "url": "https://topfloorings.com/products/kronoswiss-cr3217-laminate-flooring-12mm-x-7-60-switzerland",
+   "price_per_box": 51.45,
+   "sqft_per_box": 14.33,
+   "price_per_sqft": 3.59,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "spc",
+   "title": "Riche Roasted Pecan SPC LVP Vinyl Plank Flooring | 6mm Waterproof with IXPE Pad | 7.09\" Wide",
+   "url": "https://topfloorings.com/products/riche-roasted-pecan-spc-lvp-vinyl-plank-flooring-6mm-waterproof-with-ixpe-pad-7-09-wide",
+   "price_per_box": 44.68,
+   "sqft_per_box": 23.64,
+   "price_per_sqft": 1.89,
+   "wear_layer_mil": 12
+  },
+  {
+   "type": "spc",
+   "title": "Riche Weathered Shore Oak SPC LVP Vinyl Plank Flooring | 6mm Waterproof with IXPE Pad | 7.09\" Wide",
+   "url": "https://topfloorings.com/products/riche-weathered-shore-oak-spc-lvp-vinyl-plank-flooring-6mm-waterproof-with-ixpe-pad-7-09-wide",
+   "price_per_box": 44.68,
+   "sqft_per_box": 23.64,
+   "price_per_sqft": 1.89,
+   "wear_layer_mil": 12
+  },
+  {
+   "type": "spc",
+   "title": "Riche Taupe Grey Oak SPC LVP Vinyl Plank Flooring | 6mm Waterproof with IXPE Pad | 7.09\" Wide",
+   "url": "https://topfloorings.com/products/riche-taupe-grey-oak-spc-lvp-vinyl-plank-flooring-6mm-waterproof-with-ixpe-pad-7-09-wide",
+   "price_per_box": 44.68,
+   "sqft_per_box": 23.64,
+   "price_per_sqft": 1.89,
+   "wear_layer_mil": 12
+  },
+  {
+   "type": "spc",
+   "title": "Riche Cream Ivory Oak SPC LVP Vinyl Plank Flooring | 6mm Waterproof with IXPE Pad | 7.09\" Wide",
+   "url": "https://topfloorings.com/products/riche-cream-ivory-oak-spc-lvp-vinyl-plank-flooring-6mm-waterproof-with-ixpe-pad-7-09-wide",
+   "price_per_box": 44.68,
+   "sqft_per_box": 23.64,
+   "price_per_sqft": 1.89,
+   "wear_layer_mil": 12
+  },
+  {
+   "type": "spc",
+   "title": "Riche Moonlight Oak SPC LVP Vinyl Plank Flooring | 6mm Waterproof with IXPE Pad | 7.09\" Wide",
+   "url": "https://topfloorings.com/products/riche-moonlight-oak-spc-lvp-vinyl-plank-flooring-6mm-waterproof-with-ixpe-pad-7-09-wide",
+   "price_per_box": 44.68,
+   "sqft_per_box": 23.64,
+   "price_per_sqft": 1.89,
+   "wear_layer_mil": 12
+  },
+  {
+   "type": "spc",
+   "title": "Riche Truffle Brown Oak SPC LVP Vinyl Plank Flooring | 6mm Waterproof with IXPE Pad | 7.09\" Wide",
+   "url": "https://topfloorings.com/products/riche-truffle-brown-oak-spc-lvp-vinyl-plank-flooring-6mm-waterproof-with-ixpe-pad-7-09-wide",
+   "price_per_box": 44.68,
+   "sqft_per_box": 23.64,
+   "price_per_sqft": 1.89,
+   "wear_layer_mil": 12
+  },
+  {
+   "type": "spc",
+   "title": "Riche Dusk Greige Oak SPC LVP Vinyl Plank Flooring | 6mm Waterproof with IXPE Pad | 7.09\" Wide",
+   "url": "https://topfloorings.com/products/riche-dusk-greige-oak-spc-lvp-vinyl-plank-flooring-6mm-waterproof-with-ixpe-pad-7-09-wide",
+   "price_per_box": 44.68,
+   "sqft_per_box": 23.64,
+   "price_per_sqft": 1.89,
+   "wear_layer_mil": 12
+  },
+  {
+   "type": "spc",
+   "title": "Riche Warm Mocha Oak SPC LVP Vinyl Plank Flooring | 6mm Waterproof with IXPE Pad | 7.09\" Wide",
+   "url": "https://topfloorings.com/products/riche-warm-mocha-oak-spc-lvp-vinyl-plank-flooring-6mm-waterproof-with-ixpe-pad-7-09-wide",
+   "price_per_box": 44.68,
+   "sqft_per_box": 23.64,
+   "price_per_sqft": 1.89,
+   "wear_layer_mil": 12
+  },
+  {
+   "type": "spc",
+   "title": "Riche Blonde Sand Oak SPC LVP Vinyl Plank Flooring | 6mm Waterproof with IXPE Pad | 7.09\" Wide",
+   "url": "https://topfloorings.com/products/riche-blonde-sand-oak-spc-lvp-vinyl-plank-flooring-6mm-waterproof-with-ixpe-pad-7-09-wide",
+   "price_per_box": 44.68,
+   "sqft_per_box": 23.64,
+   "price_per_sqft": 1.89,
+   "wear_layer_mil": 12
+  },
+  {
+   "type": "spc",
+   "title": "Riche Smoked Walnut SPC LVP Vinyl Plank Flooring | 6.5mm Waterproof with IXPE Pad | 7.09\" Wide",
+   "url": "https://topfloorings.com/products/riche-smoked-walnut-spc-lvp-vinyl-plank-flooring-6-5mm-waterproof-with-ixpe-pad-7-09-wide",
+   "price_per_box": 42.33,
+   "sqft_per_box": 21.27,
+   "price_per_sqft": 1.99,
+   "wear_layer_mil": 12
+  },
+  {
+   "type": "spc",
+   "title": "Riche Driftwood Grey Oak SPC LVP Vinyl Plank Flooring | 6.5mm Waterproof with IXPE Pad | 7.09\" Wide",
+   "url": "https://topfloorings.com/products/riche-driftwood-grey-oak-spc-lvp-vinyl-plank-flooring-6-5mm-waterproof-with-ixpe-pad-7-09-wide",
+   "price_per_box": 42.33,
+   "sqft_per_box": 21.27,
+   "price_per_sqft": 1.99,
+   "wear_layer_mil": 12
+  },
+  {
+   "type": "spc",
+   "title": "Riche Honey Harvest Oak SPC LVP Vinyl Plank Flooring | 6.5mm Waterproof with IXPE Pad | 7.09\" Wide",
+   "url": "https://topfloorings.com/products/riche-honey-harvest-oak-spc-lvp-vinyl-plank-flooring-6-5mm-waterproof-with-ixpe-pad-7-09-wide",
+   "price_per_box": 42.33,
+   "sqft_per_box": 21.27,
+   "price_per_sqft": 1.99,
+   "wear_layer_mil": 12
+  },
+  {
+   "type": "spc",
+   "title": "Riche Pale Parchment Oak SPC LVP Vinyl Plank Flooring | 6.5mm Waterproof with IXPE Pad | 7.09\" Wide",
+   "url": "https://topfloorings.com/products/riche-pale-parchment-oak-spc-lvp-vinyl-plank-flooring-6-5mm-waterproof-with-ixpe-pad-7-09-wide",
+   "price_per_box": 42.33,
+   "sqft_per_box": 21.27,
+   "price_per_sqft": 1.99,
+   "wear_layer_mil": 12
+  },
+  {
+   "type": "spc",
+   "title": "Riche Linen Drift Oak SPC LVP Vinyl Plank Flooring | 6.5mm Waterproof with IXPE Pad | 7.09\" Wide",
+   "url": "https://topfloorings.com/products/riche-linen-drift-oak-spc-lvp-vinyl-plank-flooring-6-5mm-waterproof-with-ixpe-pad-7-09-wide",
+   "price_per_box": 42.33,
+   "sqft_per_box": 21.27,
+   "price_per_sqft": 1.99,
+   "wear_layer_mil": 12
+  },
+  {
+   "type": "spc",
+   "title": "Riche Midnight Shadow Oak SPC LVP Vinyl Plank Flooring | 6.5mm Waterproof with IXPE Pad | 7.09\" Wide",
+   "url": "https://topfloorings.com/products/riche-midnight-shadow-oak-spc-lvp-vinyl-plank-flooring-6-5mm-waterproof-with-ixpe-pad-7-09-wide",
+   "price_per_box": 42.33,
+   "sqft_per_box": 21.27,
+   "price_per_sqft": 1.99,
+   "wear_layer_mil": 12
+  },
+  {
+   "type": "spc",
+   "title": "Riche Charcoal Storm Oak SPC LVP Vinyl Plank Flooring | 6.5mm Waterproof with IXPE Pad | 7.09\" Wide",
+   "url": "https://topfloorings.com/products/riche-charcoal-storm-oak-spc-lvp-vinyl-plank-flooring-6-5mm-waterproof-with-ixpe-pad-7-09-wide",
+   "price_per_box": 42.33,
+   "sqft_per_box": 21.27,
+   "price_per_sqft": 1.99,
+   "wear_layer_mil": 12
+  },
+  {
+   "type": "spc",
+   "title": "Riche Dark Espresso Oak SPC LVP Vinyl Plank Flooring | 6.5mm Waterproof with IXPE Pad | 7.09\" Wide",
+   "url": "https://topfloorings.com/products/riche-dark-espresso-oak-spc-lvp-vinyl-plank-flooring-6-5mm-waterproof-with-ixpe-pad-7-09-wide",
+   "price_per_box": 42.33,
+   "sqft_per_box": 21.27,
+   "price_per_sqft": 1.99,
+   "wear_layer_mil": 12
+  },
+  {
+   "type": "spc",
+   "title": "Riche Pewter Grey Oak SPC LVP Vinyl Plank Flooring | 6.5mm Waterproof with IXPE Pad | 7.09\" Wide",
+   "url": "https://topfloorings.com/products/riche-pewter-grey-oak-spc-lvp-vinyl-plank-flooring-6-5mm-waterproof-with-ixpe-pad-7-09-wide",
+   "price_per_box": 42.33,
+   "sqft_per_box": 21.27,
+   "price_per_sqft": 1.99,
+   "wear_layer_mil": 12
+  },
+  {
+   "type": "spc",
+   "title": "Riche Olive Sand Oak SPC LVP Vinyl Plank Flooring | 6.5mm Waterproof with IXPE Pad | 7.09\" Wide",
+   "url": "https://topfloorings.com/products/riche-olive-sand-oak-spc-lvp-vinyl-plank-flooring-6-5mm-waterproof-with-ixpe-pad-7-09-wide",
+   "price_per_box": 42.33,
+   "sqft_per_box": 21.27,
+   "price_per_sqft": 1.99,
+   "wear_layer_mil": 12
+  },
+  {
+   "type": "spc",
+   "title": "Riche Cool Ash Grey SPC Vinyl Plank Flooring | 8mm Waterproof with EVA Pad | 5.9\" Wide",
+   "url": "https://topfloorings.com/products/riche-cool-ash-grey-spc-vinyl-plank-flooring-8mm",
+   "price_per_box": 33.91,
+   "sqft_per_box": 15.77,
+   "price_per_sqft": 2.15,
+   "wear_layer_mil": 12
+  },
+  {
+   "type": "spc",
+   "title": "Riche Charcoal Noir SPC Vinyl Plank Flooring | 8mm Waterproof with EVA Pad | 5.9\" Wide",
+   "url": "https://topfloorings.com/products/riche-charcoal-noir-spc-vinyl-plank-flooring-8mm",
+   "price_per_box": 33.91,
+   "sqft_per_box": 15.77,
+   "price_per_sqft": 2.15,
+   "wear_layer_mil": 12
+  },
+  {
+   "type": "spc",
+   "title": "Riche Silver Mist Oak SPC Vinyl Plank Flooring | 8mm Waterproof with EVA Pad | 5.9\" Wide",
+   "url": "https://topfloorings.com/products/riche-silver-mist-oak-spc-vinyl-plank-flooring-8mm",
+   "price_per_box": 33.91,
+   "sqft_per_box": 15.77,
+   "price_per_sqft": 2.15,
+   "wear_layer_mil": 12
+  },
+  {
+   "type": "spc",
+   "title": "Riche Weathered Grey Oak SPC Vinyl Plank Flooring | 8mm Waterproof with EVA Pad | 5.9\" Wide",
+   "url": "https://topfloorings.com/products/riche-weathered-grey-oak-spc-vinyl-plank-flooring-8mm",
+   "price_per_box": 33.91,
+   "sqft_per_box": 15.77,
+   "price_per_sqft": 2.15,
+   "wear_layer_mil": 12
+  },
+  {
+   "type": "spc",
+   "title": "Riche Natural Sandy Oak SPC Vinyl Plank Flooring | 8mm Waterproof with EVA Pad | 5.9\" Wide",
+   "url": "https://topfloorings.com/products/riche-natural-sandy-oak-spc-vinyl-plank-flooring-8mm",
+   "price_per_box": 33.91,
+   "sqft_per_box": 15.77,
+   "price_per_sqft": 2.15,
+   "wear_layer_mil": 12
+  },
+  {
+   "type": "spc",
+   "title": "Riche Golden Hickory SPC Vinyl Plank Flooring | 8mm Waterproof with EVA Pad | 5.9\" Wide",
+   "url": "https://topfloorings.com/products/riche-golden-hickory-spc-vinyl-plank-flooring-8mm",
+   "price_per_box": 33.91,
+   "sqft_per_box": 15.77,
+   "price_per_sqft": 2.15,
+   "wear_layer_mil": 12
+  },
+  {
+   "type": "spc",
+   "title": "Riche Arctic White Oak SPC Vinyl Plank Flooring | 8mm Waterproof with EVA Pad | 5.9\" Wide",
+   "url": "https://topfloorings.com/products/riche-arctic-white-oak-spc-vinyl-plank-flooring-8mm",
+   "price_per_box": 33.91,
+   "sqft_per_box": 15.77,
+   "price_per_sqft": 2.15,
+   "wear_layer_mil": 12
+  },
+  {
+   "type": "spc",
+   "title": "Riche Flooring Montreal Collection 8mm SPC Vinyl Plank Flooring \u2013 Plateau Walnut (5.9\" Plank)",
+   "url": "https://topfloorings.com/products/richie-flooring-montreal-collection-8mm-spc-vinyl-plateau-walnut-5-9-plank",
+   "price_per_box": 34.54,
+   "sqft_per_box": 15.77,
+   "price_per_sqft": 2.19,
+   "wear_layer_mil": 12
+  },
+  {
+   "type": "spc",
+   "title": "Riche Flooring Montreal Collection 8mm SPC Vinyl Plank Flooring \u2013 Westmount Cream (5.9\" Plank)",
+   "url": "https://topfloorings.com/products/richie-flooring-montreal-collection-8mm-spc-vinyl-westmount-cream-5-9-plank",
+   "price_per_box": 34.54,
+   "sqft_per_box": 15.77,
+   "price_per_sqft": 2.19,
+   "wear_layer_mil": 12
+  },
+  {
+   "type": "spc",
+   "title": "Riche Flooring Montreal Collection 8mm SPC Vinyl Plank Flooring \u2013 Old Port Roast (5.9\" Plank)",
+   "url": "https://topfloorings.com/products/richie-flooring-montreal-collection-8mm-spc-vinyl-old-port-roast-5-9-plank",
+   "price_per_box": 34.54,
+   "sqft_per_box": 15.77,
+   "price_per_sqft": 2.19,
+   "wear_layer_mil": 12
+  },
+  {
+   "type": "spc",
+   "title": "Riche Flooring Montreal Collection 8mm SPC Vinyl Plank Flooring \u2013 Saint-Laurent Honey (5.9\" Plank)",
+   "url": "https://topfloorings.com/products/richie-flooring-montreal-collection-8mm-spc-vinyl-saint-laurent-honey-5-9-plank",
+   "price_per_box": 34.54,
+   "sqft_per_box": 15.77,
+   "price_per_sqft": 2.19,
+   "wear_layer_mil": 12
+  },
+  {
+   "type": "spc",
+   "title": "Riche Flooring Heavy-Duty 8mm SPC Vinyl Plank \u2013 Wheat Harvest (20mil Wear Layer)",
+   "url": "https://topfloorings.com/products/richie-flooring-heavy-duty-8mm-spc-vinyl-wheat-harvest-20mil-wear-layer",
+   "price_per_box": 37.24,
+   "sqft_per_box": 16.55,
+   "price_per_sqft": 2.25,
+   "wear_layer_mil": 20
+  },
+  {
+   "type": "spc",
+   "title": "Riche Flooring Heavy-Duty 8mm SPC Vinyl Plank \u2013 Sahara Shore (20mil Wear Layer)",
+   "url": "https://topfloorings.com/products/richie-flooring-heavy-duty-8mm-spc-vinyl-sahara-shore-20mil-wear-layer",
+   "price_per_box": 37.24,
+   "sqft_per_box": 16.55,
+   "price_per_sqft": 2.25,
+   "wear_layer_mil": 20
+  },
+  {
+   "type": "spc",
+   "title": "Riche Flooring Heavy-Duty 8mm SPC Vinyl Plank \u2013 Vanilla Maple (20mil Wear Layer)",
+   "url": "https://topfloorings.com/products/richie-flooring-heavy-duty-8mm-spc-vinyl-vanilla-maple-20mil-wear-layer",
+   "price_per_box": 37.24,
+   "sqft_per_box": 16.55,
+   "price_per_sqft": 2.25,
+   "wear_layer_mil": 20
+  },
+  {
+   "type": "spc",
+   "title": "Riche Flooring Heavy-Duty 8mm SPC Vinyl Plank \u2013 Nordic Frost (20mil Wear Layer)",
+   "url": "https://topfloorings.com/products/richie-flooring-heavy-duty-8mm-spc-vinyl-nordic-frost-20mil-wear-layer",
+   "price_per_box": 37.24,
+   "sqft_per_box": 16.55,
+   "price_per_sqft": 2.25,
+   "wear_layer_mil": 20
+  },
+  {
+   "type": "spc",
+   "title": "Riche Flooring Heavy-Duty 8mm SPC Vinyl Plank \u2013 Linen Fields (20mil Wear Layer)",
+   "url": "https://topfloorings.com/products/richie-flooring-heavy-duty-8mm-spc-vinyl-linen-fields-20mil-wear-layer",
+   "price_per_box": 37.24,
+   "sqft_per_box": 16.55,
+   "price_per_sqft": 2.25,
+   "wear_layer_mil": 20
+  },
+  {
+   "type": "spc",
+   "title": "Riche Flooring Heavy-Duty 8mm SPC Vinyl Plank \u2013 Golden Prairie (20mil Wear Layer)",
+   "url": "https://topfloorings.com/products/richie-flooring-heavy-duty-8mm-spc-vinyl-golden-prairie-20mil-wear-layer",
+   "price_per_box": 37.24,
+   "sqft_per_box": 16.55,
+   "price_per_sqft": 2.25,
+   "wear_layer_mil": 20
+  },
+  {
+   "type": "spc",
+   "title": "Riche Flooring Heavy-Duty 8mm SPC Vinyl Plank \u2013 Arctic Birch (20mil Wear Layer)",
+   "url": "https://topfloorings.com/products/richie-flooring-heavy-duty-8mm-spc-vinyl-arctic-birch-20mil-wear-layer",
+   "price_per_box": 37.24,
+   "sqft_per_box": 16.55,
+   "price_per_sqft": 2.25,
+   "wear_layer_mil": 20
+  },
+  {
+   "type": "spc",
+   "title": "Riche Frosted Birch SPC Vinyl Plank Flooring | 9mm | 5.9\" Wide | 100% Waterproof | EVA Pad Included",
+   "url": "https://topfloorings.com/products/riche-frosted-birch-spc-vinyl-plank-flooring-9mm-waterproof-with-eva-pad-5-9-wide",
+   "price_per_box": 32.96,
+   "sqft_per_box": 13.79,
+   "price_per_sqft": 2.39,
+   "wear_layer_mil": 12
+  },
+  {
+   "type": "spc",
+   "title": "Riche Reclaimed Barnwood SPC Vinyl Plank Flooring | 9mm | 5.9\" Wide | 100% Waterproof | EVA Pad Included",
+   "url": "https://topfloorings.com/products/riche-reclaimed-barnwood-spc-vinyl-plank-flooring-9mm-waterproof-with-eva-pad-5-9-wide",
+   "price_per_box": 32.96,
+   "sqft_per_box": 13.79,
+   "price_per_sqft": 2.39,
+   "wear_layer_mil": 12
+  },
+  {
+   "type": "spc",
+   "title": "Riche Ivory Linen SPC Vinyl Plank Flooring | 9mm | 5.9\" Wide | 100% Waterproof | EVA Pad Included",
+   "url": "https://topfloorings.com/products/riche-ivory-linen-spc-vinyl-plank-flooring-9mm-waterproof-with-eva-pad-5-9-wide",
+   "price_per_box": 32.96,
+   "sqft_per_box": 13.79,
+   "price_per_sqft": 2.39,
+   "wear_layer_mil": 12
+  },
+  {
+   "type": "spc",
+   "title": "Riche Harbour Grey SPC Vinyl Plank Flooring | 9mm | 5.9\" Wide | 100% Waterproof | EVA Pad Included",
+   "url": "https://topfloorings.com/products/riche-harbour-grey-spc-vinyl-plank-flooring-9mm-waterproof-with-eva-pad-5-9-wide",
+   "price_per_box": 32.96,
+   "sqft_per_box": 13.79,
+   "price_per_sqft": 2.39,
+   "wear_layer_mil": 12
+  },
+  {
+   "type": "spc",
+   "title": "Riche Cocoa Brown Oak SPC Vinyl Plank Flooring | 9mm | 5.9\" Wide | 100% Waterproof | EVA Pad Included",
+   "url": "https://topfloorings.com/products/riche-cocoa-brown-oak-spc-vinyl-plank-flooring-9mm-waterproof-with-eva-pad-5-9-wide",
+   "price_per_box": 32.96,
+   "sqft_per_box": 13.79,
+   "price_per_sqft": 2.39,
+   "wear_layer_mil": 12
+  },
+  {
+   "type": "spc",
+   "title": "Riche Coastal Grey SPC Vinyl Plank Flooring | 9mm | 5.9\" Wide | 100% Waterproof | EVA Pad Included",
+   "url": "https://topfloorings.com/products/riche-coastal-grey-spc-vinyl-plank-flooring-9mm-waterproof-with-eva-pad-5-9-wide",
+   "price_per_box": 32.96,
+   "sqft_per_box": 13.79,
+   "price_per_sqft": 2.39,
+   "wear_layer_mil": 12
+  },
+  {
+   "type": "spc",
+   "title": "Riche Warm Acacia SPC Vinyl Plank Flooring | 9mm | 5.9\" Wide | 100% Waterproof | EVA Pad Included",
+   "url": "https://topfloorings.com/products/riche-warm-acacia-spc-vinyl-plank-flooring-9mm-waterproof-with-eva-pad-5-9-wide",
+   "price_per_box": 32.96,
+   "sqft_per_box": 13.79,
+   "price_per_sqft": 2.39,
+   "wear_layer_mil": 12
+  },
+  {
+   "type": "spc",
+   "title": "Riche Sandstone Oak SPC Vinyl Plank Flooring | 9mm | 5.9\" Wide | 100% Waterproof | EVA Pad Included",
+   "url": "https://topfloorings.com/products/riche-sandstone-oak-spc-vinyl-plank-flooring-9mm-waterproof-with-eva-pad-5-9-wide",
+   "price_per_box": 32.96,
+   "sqft_per_box": 13.79,
+   "price_per_sqft": 2.39,
+   "wear_layer_mil": 12
+  },
+  {
+   "type": "spc",
+   "title": "Riche Flooring Heavy-Duty 8mm SPC Vinyl Plank \u2013 Dark Roast Walnut (20mil Wear Layer)",
+   "url": "https://topfloorings.com/products/richie-flooring-heavy-duty-8mm-spc-vinyl-dark-roast-walnut-20mil-wear-layer",
+   "price_per_box": 37.24,
+   "sqft_per_box": 15.55,
+   "price_per_sqft": 2.39,
+   "wear_layer_mil": 20
+  },
+  {
+   "type": "spc",
+   "title": "Riche Flooring 9mm SPC Vinyl Plank Flooring \u2013 Burrard Walnut (12mil Wear Layer)",
+   "url": "https://topfloorings.com/products/richie-flooring-9mm-spc-vinyl-burrard-walnut-12mil-wear-layer",
+   "price_per_box": 33.79,
+   "sqft_per_box": 13.79,
+   "price_per_sqft": 2.45,
+   "wear_layer_mil": 12
+  },
+  {
+   "type": "spc",
+   "title": "Riche Flooring 9mm SPC Vinyl Plank Flooring \u2013 West Coast Sand (12mil Wear Layer)",
+   "url": "https://topfloorings.com/products/richie-flooring-9mm-spc-vinyl-west-coast-sand-12mil-wear-layer",
+   "price_per_box": 33.79,
+   "sqft_per_box": 13.79,
+   "price_per_sqft": 2.45,
+   "wear_layer_mil": 12
+  },
+  {
+   "type": "spc",
+   "title": "Riche Flooring 9mm SPC Vinyl Plank Flooring \u2013 Coastal Greige (12mil Wear Layer)",
+   "url": "https://topfloorings.com/products/richie-flooring-9mm-spc-vinyl-coastal-greige-12mil-wear-layer",
+   "price_per_box": 33.79,
+   "sqft_per_box": 13.79,
+   "price_per_sqft": 2.45,
+   "wear_layer_mil": 12
+  },
+  {
+   "type": "spc",
+   "title": "Riche Flooring 9mm SPC Vinyl Plank Flooring \u2013 Seawall Brown (12mil Wear Layer)",
+   "url": "https://topfloorings.com/products/richie-flooring-9mm-spc-vinyl-seawall-brown-12mil-wear-layer",
+   "price_per_box": 33.79,
+   "sqft_per_box": 13.79,
+   "price_per_sqft": 2.45,
+   "wear_layer_mil": 12
+  },
+  {
+   "type": "spc",
+   "title": "Riche Flooring 9mm SPC Vinyl Plank Flooring \u2013 Pacific Teak (12mil Wear Layer)",
+   "url": "https://topfloorings.com/products/richie-flooring-9mm-spc-vinyl-pacific-teak-12mil-wear-layer",
+   "price_per_box": 33.79,
+   "sqft_per_box": 13.79,
+   "price_per_sqft": 2.45,
+   "wear_layer_mil": 12
+  },
+  {
+   "type": "spc",
+   "title": "Riche Nordic Breeze Oak SPC Vinyl Plank Flooring | 9mm Waterproof with EVA Pad | 7.09\" Wide",
+   "url": "https://topfloorings.com/products/riche-nordic-breeze-oak-spc-vinyl-plank-flooring-9mm-waterproof-eva-pad",
+   "price_per_box": 35.31,
+   "sqft_per_box": 14.18,
+   "price_per_sqft": 2.49,
+   "wear_layer_mil": 20
+  },
+  {
+   "type": "spc",
+   "title": "Riche Cloud White Oak SPC Vinyl Plank Flooring | 9mm Waterproof with EVA Pad | 7.09\" Wide",
+   "url": "https://topfloorings.com/products/riche-cloud-white-oak-spc-vinyl-plank-flooring-9mm-waterproof-eva-pad",
+   "price_per_box": 35.31,
+   "sqft_per_box": 14.18,
+   "price_per_sqft": 2.49,
+   "wear_layer_mil": 20
+  },
+  {
+   "type": "spc",
+   "title": "Riche Golden Harvest Oak SPC Vinyl Plank Flooring | 9mm Waterproof with EVA Pad | 7.09\" Wide",
+   "url": "https://topfloorings.com/products/riche-golden-harvest-oak-spc-vinyl-plank-flooring-9mm-waterproof-eva-pad",
+   "price_per_box": 35.31,
+   "sqft_per_box": 14.18,
+   "price_per_sqft": 2.49,
+   "wear_layer_mil": 20
+  },
+  {
+   "type": "spc",
+   "title": "Riche Pale Champagne Oak SPC Vinyl Plank Flooring | 9mm Waterproof with EVA Pad | 7.09\" Wide",
+   "url": "https://topfloorings.com/products/riche-pale-champagne-oak-spc-vinyl-plank-flooring-9mm-waterproof-eva-pad",
+   "price_per_box": 35.31,
+   "sqft_per_box": 14.18,
+   "price_per_sqft": 2.49,
+   "wear_layer_mil": 20
+  },
+  {
+   "type": "spc",
+   "title": "Riche Natural Honey Oak SPC Vinyl Plank Flooring | 9mm Waterproof with EVA Pad | 7.09\" Wide",
+   "url": "https://topfloorings.com/products/riche-natural-honey-oak-spc-vinyl-plank-flooring-9mm-waterproof-eva-pad",
+   "price_per_box": 35.31,
+   "sqft_per_box": 14.18,
+   "price_per_sqft": 2.49,
+   "wear_layer_mil": 20
+  },
+  {
+   "type": "spc",
+   "title": "Top Floorings SW28008 4mm SPC Vinyl Plank Flooring | 7.17\" x 48.8\"",
+   "url": "https://topfloorings.com/products/top-floorings-sw28008-4mm-spc-vinyl-plank-flooring-7-17-x-48-8",
+   "price_per_box": 74.55,
+   "sqft_per_box": 23.91,
+   "price_per_sqft": 3.12,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "spc",
+   "title": "Top Floorings Brown Oak Luxury Vinyl Plank Flooring | 5mm | 5.9\" x 36.9\"",
+   "url": "https://topfloorings.com/products/top-floorings-brown-oak-luxury-vinyl-plank-flooring-5mm-5-9-x-36-9",
+   "price_per_box": 49.71,
+   "sqft_per_box": 15.11,
+   "price_per_sqft": 3.29,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "spc",
+   "title": "Riche Washed Driftwood SPC Vinyl Plank Flooring | 10mm Waterproof with EVA Pad | 5.9\" Wide",
+   "url": "https://topfloorings.com/products/riche-washed-driftwood-spc-vinyl-plank-flooring-10mm",
+   "price_per_box": 38.89,
+   "sqft_per_box": 11.82,
+   "price_per_sqft": 3.29,
+   "wear_layer_mil": 20
+  },
+  {
+   "type": "spc",
+   "title": "Riche Toasted Caramel Oak SPC Vinyl Plank Flooring | 10mm Waterproof with EVA Pad | 5.9\" Wide",
+   "url": "https://topfloorings.com/products/riche-toasted-caramel-oak-spc-vinyl-plank-flooring-10mm",
+   "price_per_box": 38.89,
+   "sqft_per_box": 11.82,
+   "price_per_sqft": 3.29,
+   "wear_layer_mil": 20
+  },
+  {
+   "type": "spc",
+   "title": "Riche Natural Blonde Oak SPC Vinyl Plank Flooring | 10mm Waterproof with EVA Pad | 5.9\" Wide",
+   "url": "https://topfloorings.com/products/riche-natural-blonde-oak-spc-vinyl-plank-flooring-10mm",
+   "price_per_box": 38.89,
+   "sqft_per_box": 11.82,
+   "price_per_sqft": 3.29,
+   "wear_layer_mil": 20
+  },
+  {
+   "type": "spc",
+   "title": "Riche Espresso Walnut SPC Vinyl Plank Flooring | 10mm Waterproof with EVA Pad | 5.9\" Wide",
+   "url": "https://topfloorings.com/products/riche-espresso-walnut-spc-vinyl-plank-flooring-10mm",
+   "price_per_box": 38.89,
+   "sqft_per_box": 11.82,
+   "price_per_sqft": 3.29,
+   "wear_layer_mil": 20
+  },
+  {
+   "type": "spc",
+   "title": "Riche Stone Grey Oak SPC Vinyl Plank Flooring | 10mm Waterproof with EVA Pad | 5.9\" Wide",
+   "url": "https://topfloorings.com/products/riche-stone-grey-oak-spc-vinyl-plank-flooring-10mm",
+   "price_per_box": 38.89,
+   "sqft_per_box": 11.82,
+   "price_per_sqft": 3.29,
+   "wear_layer_mil": 20
+  },
+  {
+   "type": "spc",
+   "title": "Riche Anthracite Oak SPC Vinyl Plank Flooring | 10mm Waterproof with EVA Pad | 5.9\" Wide",
+   "url": "https://topfloorings.com/products/riche-anthracite-oak-spc-vinyl-plank-flooring-10mm",
+   "price_per_box": 38.89,
+   "sqft_per_box": 11.82,
+   "price_per_sqft": 3.29,
+   "wear_layer_mil": 20
+  },
+  {
+   "type": "spc",
+   "title": "Riche Smoky Timber SPC Vinyl Plank Flooring | 10mm Waterproof with EVA Pad | 5.9\" Wide",
+   "url": "https://topfloorings.com/products/riche-smoky-timber-spc-vinyl-plank-flooring-10mm",
+   "price_per_box": 38.89,
+   "sqft_per_box": 11.82,
+   "price_per_sqft": 3.29,
+   "wear_layer_mil": 20
+  },
+  {
+   "type": "spc",
+   "title": "Riche Frost White Oak SPC Vinyl Plank Flooring | 10mm Waterproof with EVA Pad | 5.9\" Wide",
+   "url": "https://topfloorings.com/products/riche-frost-white-oak-spc-vinyl-plank-flooring-10mm-waterproof-with-eva-pad-5-9-wide",
+   "price_per_box": 38.89,
+   "sqft_per_box": 11.82,
+   "price_per_sqft": 3.29,
+   "wear_layer_mil": 20
+  },
+  {
+   "type": "spc",
+   "title": "Riche Greige Oak SPC Vinyl Plank Flooring | 10mm Waterproof with EVA Pad | 5.9\" Wide",
+   "url": "https://topfloorings.com/products/riche-greige-oak-spc-vinyl-plank-flooring-10mm",
+   "price_per_box": 38.89,
+   "sqft_per_box": 11.82,
+   "price_per_sqft": 3.29,
+   "wear_layer_mil": 20
+  },
+  {
+   "type": "spc",
+   "title": "Riche Flooring Ultra-Thick 10mm SPC Vinyl Plank \u2013 Glacier White (5.9\" Narrow Plank)",
+   "url": "https://topfloorings.com/products/richie-flooring-ultra-thick-10mm-spc-vinyl-glacier-white-5-9-narrow-plank",
+   "price_per_box": 39.6,
+   "sqft_per_box": 11.82,
+   "price_per_sqft": 3.35,
+   "wear_layer_mil": 20
+  },
+  {
+   "type": "spc",
+   "title": "Riche Flooring Ultra-Thick 10mm SPC Vinyl Plank \u2013 Smoked Hazel (5.9\" Narrow Plank)",
+   "url": "https://topfloorings.com/products/richie-flooring-ultra-thick-10mm-spc-vinyl-smoked-hazel-5-9-narrow-plank",
+   "price_per_box": 39.6,
+   "sqft_per_box": 11.82,
+   "price_per_sqft": 3.35,
+   "wear_layer_mil": 20
+  },
+  {
+   "type": "spc",
+   "title": "Riche Flooring Ultra-Thick 10mm SPC Vinyl Plank \u2013 Rustic Taupe (5.9\" Narrow Plank)",
+   "url": "https://topfloorings.com/products/richie-flooring-ultra-thick-10mm-spc-vinyl-rustic-taupe-5-9-narrow-plank",
+   "price_per_box": 39.6,
+   "sqft_per_box": 11.82,
+   "price_per_sqft": 3.35,
+   "wear_layer_mil": 20
+  },
+  {
+   "type": "spc",
+   "title": "Riche Flooring Ultra-Thick 10mm SPC Vinyl Plank \u2013 Cognac Reserve (5.9\" Narrow Plank)",
+   "url": "https://topfloorings.com/products/richie-flooring-ultra-thick-10mm-spc-vinyl-cognac-reserve-5-9-narrow-plank",
+   "price_per_box": 39.6,
+   "sqft_per_box": 11.82,
+   "price_per_sqft": 3.35,
+   "wear_layer_mil": 20
+  },
+  {
+   "type": "spc",
+   "title": "Riche Flooring Ultra-Thick 10mm SPC Vinyl Plank \u2013 Silver Whisper (5.9\" Narrow Plank)",
+   "url": "https://topfloorings.com/products/richie-flooring-ultra-thick-10mm-spc-vinyl-silver-whisper-5-9-narrow-plank",
+   "price_per_box": 39.6,
+   "sqft_per_box": 11.82,
+   "price_per_sqft": 3.35,
+   "wear_layer_mil": 20
+  },
+  {
+   "type": "spc",
+   "title": "Riche Flooring Ultra-Thick 10mm SPC Vinyl Plank \u2013 Honey Ridge (20mil Wear Layer)",
+   "url": "https://topfloorings.com/products/richie-flooring-ultra-thick-10mm-spc-vinyl-honey-ridge-20mil-wear-layer",
+   "price_per_box": 39.6,
+   "sqft_per_box": 11.82,
+   "price_per_sqft": 3.35,
+   "wear_layer_mil": 20
+  },
+  {
+   "type": "spc",
+   "title": "Riche Flooring Ultra-Thick 10mm SPC Vinyl Plank \u2013 Desert Sand (20mil Wear Layer)",
+   "url": "https://topfloorings.com/products/richie-flooring-ultra-thick-10mm-spc-vinyl-desert-sand-20mil-wear-layer",
+   "price_per_box": 39.6,
+   "sqft_per_box": 11.82,
+   "price_per_sqft": 3.35,
+   "wear_layer_mil": 20
+  },
+  {
+   "type": "spc",
+   "title": "Riche Flooring Ultra-Thick 10mm SPC Vinyl Plank \u2013 Butterscotch Pine (20mil Wear Layer)",
+   "url": "https://topfloorings.com/products/richie-flooring-ultra-thick-10mm-spc-vinyl-butterscotch-pine-20mil-wear-layer",
+   "price_per_box": 39.6,
+   "sqft_per_box": 11.82,
+   "price_per_sqft": 3.35,
+   "wear_layer_mil": 20
+  },
+  {
+   "type": "spc",
+   "title": "Riche Flooring Ultra-Thick 10mm SPC Vinyl Plank \u2013 Morning Birch (20mil Wear Layer)",
+   "url": "https://topfloorings.com/products/richie-flooring-ultra-thick-10mm-spc-vinyl-morning-birch-20mil-wear-layer",
+   "price_per_box": 39.6,
+   "sqft_per_box": 11.82,
+   "price_per_sqft": 3.35,
+   "wear_layer_mil": 20
+  },
+  {
+   "type": "spc",
+   "title": "Riche Flooring Ultra-Thick 10mm SPC Vinyl Plank \u2013 Oat Meadow (20mil Wear Layer)",
+   "url": "https://topfloorings.com/products/richie-flooring-ultra-thick-10mm-spc-vinyl-oat-meadow-20mil-wear-layer",
+   "price_per_box": 39.6,
+   "sqft_per_box": 11.82,
+   "price_per_sqft": 3.35,
+   "wear_layer_mil": 20
+  },
+  {
+   "type": "spc",
+   "title": "Riche Flooring Ultra-Thick 10mm SPC Vinyl Plank \u2013 Caramel Dune (20mil Wear Layer)",
+   "url": "https://topfloorings.com/products/richie-flooring-ultra-thick-10mm-spc-vinyl-caramel-dune-20mil-wear-layer",
+   "price_per_box": 39.6,
+   "sqft_per_box": 11.82,
+   "price_per_sqft": 3.35,
+   "wear_layer_mil": 20
+  },
+  {
+   "type": "spc",
+   "title": "Riche Flooring Ultra-Thick 10mm SPC Vinyl Plank \u2013 Amber Grain (20mil Wear Layer)",
+   "url": "https://topfloorings.com/products/richie-flooring-ultra-thick-10mm-spc-vinyl-amber-grain-20mil-wear-layer",
+   "price_per_box": 39.6,
+   "sqft_per_box": 11.82,
+   "price_per_sqft": 3.35,
+   "wear_layer_mil": 20
+  },
+  {
+   "type": "spc",
+   "title": "Riche Flooring Ultra-Thick 10mm SPC Vinyl Plank \u2013 Tobacco Oak (20mil Wear Layer)",
+   "url": "https://topfloorings.com/products/richie-flooring-ultra-thick-10mm-spc-vinyl-tobacco-oak-20mil-wear-layer",
+   "price_per_box": 39.6,
+   "sqft_per_box": 11.82,
+   "price_per_sqft": 3.35,
+   "wear_layer_mil": 20
+  },
+  {
+   "type": "spc",
+   "title": "Riche Flooring Ultra-Thick 10mm SPC Vinyl Plank \u2013 Pearl Fog (20mil Wear Layer)",
+   "url": "https://topfloorings.com/products/richie-flooring-ultra-thick-10mm-spc-vinyl-pearl-fog-20mil-wear-layer",
+   "price_per_box": 39.6,
+   "sqft_per_box": 11.82,
+   "price_per_sqft": 3.35,
+   "wear_layer_mil": 20
+  },
+  {
+   "type": "spc",
+   "title": "Riche Flooring Ultra-Thick 10mm SPC Vinyl Plank \u2013 Greige Mist (20mil Wear Layer)",
+   "url": "https://topfloorings.com/products/richie-flooring-ultra-thick-10mm-spc-vinyl-greige-mist-20mil-wear-layer",
+   "price_per_box": 39.6,
+   "sqft_per_box": 11.82,
+   "price_per_sqft": 3.35,
+   "wear_layer_mil": 20
+  },
+  {
+   "type": "spc",
+   "title": "BiYork HydroGen 5 Cashmere SPC Vinyl Plank Flooring | 5mm | 7\" x 48\" | Waterproof",
+   "url": "https://topfloorings.com/products/biyork-hydrogen-5-cashmere-spc-vinyl-plank-flooring-5mm-7-x-48-waterproof",
+   "price_per_box": 92.2,
+   "sqft_per_box": 26.43,
+   "price_per_sqft": 3.49,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "spc",
+   "title": "Top Floorings Palm Beach 2665 SPC Vinyl Plank Flooring | 5.5mm x 5.83\" x 48\"",
+   "url": "https://topfloorings.com/products/top-floorings-palm-beach-2665-spc-vinyl-plank-flooring-5-5mm-x-5-83",
+   "price_per_box": 86.01,
+   "sqft_per_box": 23.31,
+   "price_per_sqft": 3.69,
+   "wear_layer_mil": null
+  },
+  {
+   "type": "spc",
+   "title": "Goodfellow Everest K2 5001 SPC Vinyl Plank Flooring | 6.5mm x 7.17\"",
+   "url": "https://topfloorings.com/products/goodfellow-everest-k2-5001-spc-vinyl-plank-flooring-6-5mm-x-7-17",
+   "price_per_box": 86.98,
+   "sqft_per_box": 21.8,
+   "price_per_sqft": 3.99,
+   "wear_layer_mil": 20
+  },
+  {
+   "type": "spc",
+   "title": "Goodfellow Avalanche 3378 Lake Canyon SPC Vinyl Plank Flooring | 8mm x 5.9\"",
+   "url": "https://topfloorings.com/products/goodfellow-avalanche-3378-lake-canyon-spc-vinyl-plank-flooring-8mm-x-5-9",
+   "price_per_box": 89.37,
+   "sqft_per_box": 14.92,
+   "price_per_sqft": 5.99,
+   "wear_layer_mil": 20
+  },
+  {
+   "type": "spc",
+   "title": "Pangol Flooring Origin 7mm SPC Vinyl Plank \u2013 Mist | 7\" x 48\" | 20mil Wear Layer | IXPE Pad",
+   "url": "https://topfloorings.com/products/pangol-flooring-origin-7mm-spc-vinyl-plank-mist-7-x-48-20mil-wear-layer",
+   "price_per_box": 135.0,
+   "sqft_per_box": 19.12,
+   "price_per_sqft": 7.06,
+   "wear_layer_mil": 20
+  }
+ ]
+}

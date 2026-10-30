@@ -1,0 +1,260 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Flooring Cost Estimator (Toronto) | Top Floorings Depot</title>
+<meta name="description" content="Estimate your flooring cost in Toronto. Pick a floor type and product, add waste, labour, removal and baseboards, and see the total with 13% HST.">
+<style>
+  body { font-family: system-ui, sans-serif; max-width: 720px; margin: 0 auto; padding: 24px; color: #222; line-height: 1.5; }
+  h1 { font-size: 1.8rem; margin-bottom: 4px; }
+  table { width: 100%; border-collapse: collapse; margin: 16px 0; }
+  td, th { padding: 6px 4px; text-align: left; }
+  input, select { width: 100%; padding: 8px; font-size: 1rem; box-sizing: border-box; }
+  button { padding: 8px 14px; font-size: 1rem; cursor: pointer; }
+  .settings { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 12px; }
+  .result { background: #f3f6f4; border-radius: 8px; padding: 16px; margin: 20px 0; font-size: 1.1rem; }
+  .result strong { font-size: 1.4rem; }
+  a { color: #0a6b3d; }
+  footer { margin-top: 40px; font-size: 0.9rem; color: #555; }
+  .field { margin: 12px 0; }
+  .field label { display: block; font-weight: 600; margin-bottom: 4px; }
+  .check { margin: 10px 0; }
+  .check label { display: flex; gap: 8px; align-items: center; }
+  .check input[type=checkbox] { width: auto; }
+  .sub { margin: 8px 0 0 28px; }
+  .note { font-size: 0.9rem; color: #555; }
+  td.num, th.num { text-align: right; white-space: nowrap; }
+  tr.total td { font-weight: 700; border-top: 2px solid #222; }
+  .hidden { display: none; }
+  @media (max-width: 520px) { .settings { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+<nav style="margin-bottom:16px;font-size:0.95rem"><a href="index.html">Flooring calculator</a> · <a href="cost-estimator.html">Cost estimator</a> · <a href="flooring-comparison.html">Flooring comparison</a> · <a href="install-checklist.html">Install checklist</a> · <a href="wear-layer-guide.html">Wear layer guide</a></nav>
+<h1>Flooring Cost Estimator (Toronto)</h1>
+<p>Enter your floor area, pick a flooring type and a product, and get a rough budget in Canadian dollars. The estimate covers material, installation labour, removal, baseboards and 13% Ontario HST.</p>
+
+<div id="error" class="result hidden">Prices could not be loaded. Please visit <a href="https://topfloorings.com">topfloorings.com</a> for current prices.</div>
+
+<div id="tool">
+  <div class="field">
+    <label for="area">Floor area (sq ft)</label>
+    <input id="area" type="number" min="0" step="any" inputmode="decimal" value="500">
+  </div>
+  <div class="settings">
+    <div class="field">
+      <label for="type">Flooring type</label>
+      <select id="type">
+        <option value="laminate">Laminate</option>
+        <option value="spc">SPC vinyl</option>
+        <option value="engineered">Engineered hardwood</option>
+        <option value="hardwood">Solid hardwood</option>
+      </select>
+    </div>
+    <div class="field" style="grid-column: span 2">
+      <label for="product">Product</label>
+      <select id="product"></select>
+    </div>
+  </div>
+  <div class="field">
+    <label for="waste">Waste</label>
+    <select id="waste">
+      <option value="5">5%</option>
+      <option value="10" selected>10%</option>
+      <option value="15">15%</option>
+      <option value="20">20%</option>
+    </select>
+  </div>
+
+  <div class="check">
+    <label><input id="labour" type="checkbox" checked> Include installation labour</label>
+    <div class="sub hidden" id="methodBox">
+      <label for="method">Engineered hardwood install method</label>
+      <select id="method">
+        <option value="engineered">Floating or glue-down</option>
+        <option value="engineered_nail_glue">Nail and glue</option>
+      </select>
+    </div>
+  </div>
+  <div class="check"><label><input id="condo" type="checkbox"> Condo or apartment</label></div>
+  <div class="check"><label><input id="removal" type="checkbox"> Remove old flooring</label></div>
+  <div class="check">
+    <label><input id="base" type="checkbox"> Install baseboards</label>
+    <div class="sub hidden" id="baseBox">
+      <label for="baseLf">Baseboard length (linear ft)</label>
+      <input id="baseLf" type="number" min="0" step="any" inputmode="decimal" value="0">
+    </div>
+  </div>
+
+  <div class="result" id="result"></div>
+  <p class="note" id="priceNote"></p>
+  <p class="note">Labour amounts are "from" prices (starting prices). The final quote is confirmed on site. See <a id="laborLink" href="https://topfloorings.com/pages/flooring-installation-in-toronto">flooring installation in Toronto</a>.</p>
+</div>
+
+<h2>What affects the cost</h2>
+<ul>
+  <li><strong>Material type.</strong> Laminate, SPC vinyl, engineered hardwood and solid hardwood all have different prices per sq ft, and labour rates differ too.</li>
+  <li><strong>Waste.</strong> Cuts and mistakes mean you buy extra. 10% is common for straight installs. Read <a href="https://topfloorings.com/blogs/news/how-much-extra-flooring-should-you-order-for-waste-the-10-rule-explained-top-floorings-depot-toronto">how much extra flooring to order</a>.</li>
+  <li><strong>Subfloor prep.</strong> Uneven or damaged subfloors may need levelling or repair. This is not in the estimate.</li>
+  <li><strong>Condo rules.</strong> Many condo buildings require underlayment for sound control and may limit work hours. See the <a href="https://topfloorings.com/blogs/news/soundproof-flooring-condos-multi-level-homes-toronto-gta">soundproof flooring guide</a>. Check your building's rules before you buy.</li>
+  <li><strong>Removal.</strong> Taking out old flooring adds labour, and disposal of old material may cost extra.</li>
+  <li><strong>Stairs.</strong> Stairs are not included in this estimate. Ask for a separate quote.</li>
+</ul>
+
+<h2>Shop flooring</h2>
+<ul>
+  <li><a href="https://topfloorings.com/collections/vinyl-flooring">Vinyl and SPC flooring</a></li>
+  <li><a href="https://topfloorings.com/collections/laminate-flooring">Laminate flooring</a></li>
+  <li><a href="https://topfloorings.com/collections/engineered-hardwood-flooring">Engineered hardwood flooring</a></li>
+  <li><a href="https://topfloorings.com/pages/flooring-installation-in-toronto">Flooring installation in Toronto</a></li>
+</ul>
+
+<footer>
+  Made by <a href="https://www.topfloorings.com">Top Floorings Depot</a>, 3781 Victoria Park Avenue Unit 1, Toronto, ON. Phone 416-499-0117.
+</footer>
+
+<script>
+(function () {
+  var HST = 0.13;
+  var data = null;
+  var $ = function (id) { return document.getElementById(id); };
+  var QUICK = [
+    { value: "min", label: "Lowest price" },
+    { value: "median", label: "Typical (median)" },
+    { value: "max", label: "Highest price" }
+  ];
+
+  function num(id) {
+    var v = parseFloat($(id).value);
+    return isFinite(v) && v > 0 ? v : 0;
+  }
+  function money(n) {
+    return "$" + n.toLocaleString("en-CA", { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+  }
+  function esc(s) {
+    return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+  }
+  function typeProducts(type) {
+    return data.products.filter(function (p) { return p.type === type; })
+      .sort(function (a, b) { return a.price_per_sqft - b.price_per_sqft; });
+  }
+  function quickPrice(list, kind) {
+    if (!list.length) return 0;
+    var n = list.length;
+    if (kind === "min") return list[0].price_per_sqft;
+    if (kind === "max") return list[n - 1].price_per_sqft;
+    var m = Math.floor(n / 2);
+    return n % 2 ? list[m].price_per_sqft : (list[m - 1].price_per_sqft + list[m].price_per_sqft) / 2;
+  }
+
+  function fillProducts() {
+    var sel = $("product");
+    sel.innerHTML = "";
+    QUICK.forEach(function (q) {
+      var o = document.createElement("option");
+      o.value = q.value;
+      o.textContent = q.label;
+      sel.appendChild(o);
+    });
+    typeProducts($("type").value).forEach(function (p, i) {
+      var o = document.createElement("option");
+      o.value = "p" + i;
+      o.textContent = p.title + " - $" + p.price_per_sqft.toFixed(2) + "/sq ft";
+      sel.appendChild(o);
+    });
+    sel.value = "median";
+  }
+
+  function row(label, amount, cls) {
+    return '<tr' + (cls ? ' class="' + cls + '"' : '') + '><td>' + label + '</td><td class="num">' + amount + '</td></tr>';
+  }
+
+  function calc() {
+    if (!data) return;
+    var type = $("type").value;
+    var list = typeProducts(type);
+    var area = num("area");
+    var waste = parseFloat($("waste").value) || 0;
+    var matSqft = area * (1 + waste / 100);
+    var choice = $("product").value;
+    var useLabour = $("labour").checked;
+    var isEng = type === "engineered";
+
+    $("methodBox").classList.toggle("hidden", !(isEng && useLabour));
+    $("baseBox").classList.toggle("hidden", !$("base").checked);
+
+    var material = 0, matLabel, extra = "", product = null;
+    if (choice.charAt(0) === "p") {
+      product = list[parseInt(choice.slice(1), 10)];
+    }
+    if (product) {
+      var boxes = Math.ceil(matSqft / product.sqft_per_box - 1e-9);
+      if (!isFinite(boxes) || boxes < 0) boxes = 0;
+      material = boxes * product.price_per_box;
+      matLabel = "Material: " + boxes + " box" + (boxes === 1 ? "" : "es") + " of " + product.sqft_per_box + " sq ft at " + money(product.price_per_box);
+      extra = '<p class="note">Product: <a href="' + esc(product.url) + '">' + esc(product.title) + '</a>. You need ' +
+        matSqft.toFixed(1) + ' sq ft with waste, which is ' + boxes + ' box' + (boxes === 1 ? "" : "es") +
+        ' (' + (boxes * product.sqft_per_box).toFixed(1) + ' sq ft).</p>';
+    } else {
+      var price = quickPrice(list, choice);
+      material = matSqft * price;
+      var qlabel = QUICK.filter(function (q) { return q.value === choice; })[0].label.toLowerCase();
+      matLabel = "Material: " + matSqft.toFixed(1) + " sq ft at " + money(price) + "/sq ft (" + qlabel + " for this type)";
+      extra = '<p class="note">This uses the ' + qlabel + ' of the ' + list.length + ' products in this type. Choose a specific product to see the box count.</p>';
+    }
+
+    var rateKey = isEng ? $("method").value : type;
+    var rate = data.labor_per_sqft[rateKey] || 0;
+    var condo = $("condo").checked ? data.labor_addons.condo_extra_per_sqft : 0;
+    var labour = useLabour ? area * (rate + condo) : 0;
+    var removal = $("removal").checked ? area * data.labor_addons.removal_per_sqft : 0;
+    var baseLf = $("base").checked ? num("baseLf") : 0;
+    var base = baseLf * data.labor_addons.baseboard_per_linear_ft;
+
+    var subtotal = material + labour + removal + base;
+    var tax = subtotal * HST;
+
+    var html = '<table><tbody>' +
+      row(matLabel, money(material)) +
+      row("Labour, from " + money(rate + condo) + "/sq ft" + (condo ? " (includes condo extra)" : ""), useLabour ? "from " + money(labour) : "Not included") +
+      row("Removal, from " + money(data.labor_addons.removal_per_sqft) + "/sq ft", $("removal").checked ? "from " + money(removal) : "Not included") +
+      row("Baseboards, from " + money(data.labor_addons.baseboard_per_linear_ft) + "/linear ft", $("base").checked ? "from " + money(base) : "Not included") +
+      row("Total before tax", money(subtotal), "total") +
+      row("HST (13%)", money(tax)) +
+      row("Total with HST", money(subtotal + tax), "total") +
+      '</tbody></table>' + extra;
+    $("result").innerHTML = html;
+  }
+
+  function init() {
+    $("laborLink").href = data.labor_source;
+    $("priceNote").innerHTML = "Prices from <a href=\"https://topfloorings.com\">topfloorings.com</a> on " + esc(data.as_of) + ". Estimates only. Taxes are Ontario HST at 13%.";
+    fillProducts();
+    calc();
+  }
+
+  $("type").addEventListener("change", function () { fillProducts(); calc(); });
+  ["area", "product", "waste", "labour", "method", "condo", "removal", "base", "baseLf"].forEach(function (id) {
+    $(id).addEventListener("input", calc);
+    $(id).addEventListener("change", calc);
+  });
+
+  fetch("prices.json")
+    .then(function (r) {
+      if (!r.ok) throw new Error("HTTP " + r.status);
+      return r.json();
+    })
+    .then(function (d) {
+      if (!d || !d.products || !d.labor_per_sqft || !d.labor_addons) throw new Error("Bad data");
+      data = d;
+      init();
+    })
+    .catch(function () {
+      $("tool").classList.add("hidden");
+      $("error").classList.remove("hidden");
+    });
+})();
+</script>
+</body>
+</html>
