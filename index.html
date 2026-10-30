@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Flooring Calculator: Square Feet, Waste and Boxes | Top Floorings Depot</title>
+<meta name="description" content="Free flooring calculator. Enter your room sizes to get the square footage, the extra for waste, and the number of boxes to buy.">
+<style>
+  body { font-family: system-ui, sans-serif; max-width: 720px; margin: 0 auto; padding: 24px; color: #222; line-height: 1.5; }
+  h1 { font-size: 1.8rem; margin-bottom: 4px; }
+  table { width: 100%; border-collapse: collapse; margin: 16px 0; }
+  td, th { padding: 6px 4px; text-align: left; }
+  input, select { width: 100%; padding: 8px; font-size: 1rem; box-sizing: border-box; }
+  button { padding: 8px 14px; font-size: 1rem; cursor: pointer; }
+  .settings { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 12px; }
+  .result { background: #f3f6f4; border-radius: 8px; padding: 16px; margin: 20px 0; font-size: 1.1rem; }
+  .result strong { font-size: 1.4rem; }
+  a { color: #0a6b3d; }
+  footer { margin-top: 40px; font-size: 0.9rem; color: #555; }
+</style>
+</head>
+<body>
+<h1>Flooring Calculator</h1>
+<p>Enter the size of each room. The calculator gives the floor area, the extra for waste, and the number of boxes to buy.</p>
+
+<div class="settings">
+  <label>Units
+    <select id="unit">
+      <option value="ft">Feet</option>
+      <option value="m">Metres</option>
+    </select>
+  </label>
+  <label>Waste
+    <select id="waste">
+      <option value="5">5% (large open room)</option>
+      <option value="10" selected>10% (standard)</option>
+      <option value="15">15% (diagonal or many corners)</option>
+      <option value="20">20% (herringbone)</option>
+    </select>
+  </label>
+  <label>Sq ft per box
+    <input id="box" type="number" min="1" step="0.01" value="20">
+  </label>
+</div>
+
+<table>
+  <thead><tr><th>Room</th><th>Length</th><th>Width</th><th></th></tr></thead>
+  <tbody id="rooms"></tbody>
+</table>
+<button id="add" type="button">Add a room</button>
+
+<div class="result" id="result"></div>
+
+<h2>How to measure</h2>
+<ol>
+  <li>Measure the length and width of each room at the longest points.</li>
+  <li>Divide an L-shaped room into two rectangles. Add each rectangle as a room.</li>
+  <li>Include closets and spaces under doors.</li>
+  <li>Find the box size on the product page. Enter it in "Sq ft per box".</li>
+</ol>
+
+<h2>How much extra flooring to order</h2>
+<p>Most straight installs need 10% extra for cuts and mistakes. Diagonal and herringbone patterns need more. Read the full guide:
+<a href="https://topfloorings.com/blogs/news/how-much-extra-flooring-should-you-order-for-waste-the-10-rule-explained-top-floorings-depot-toronto">How much extra flooring should you order for waste</a>.</p>
+
+<h2>Shop flooring</h2>
+<ul>
+  <li><a href="https://topfloorings.com/collections/vinyl-flooring">Vinyl and SPC flooring</a></li>
+  <li><a href="https://topfloorings.com/collections/laminate-flooring">Laminate flooring</a></li>
+  <li><a href="https://topfloorings.com/collections/engineered-hardwood-flooring">Engineered hardwood flooring</a></li>
+  <li><a href="https://topfloorings.com/pages/flooring-installation-in-toronto">Flooring installation in Toronto</a></li>
+</ul>
+
+<footer>
+  Made by <a href="https://www.topfloorings.com">Top Floorings Depot</a>, 3781 Victoria Park Avenue Unit 1, Toronto, ON. Phone 416-499-0117.
+</footer>
+
+<script>
+const SQFT_PER_SQM = 10.7639;
+const rooms = document.getElementById("rooms");
+const fields = ["unit", "waste", "box"].map(id => document.getElementById(id));
+
+function addRoom() {
+  const row = document.createElement("tr");
+  row.innerHTML = `<td>${rooms.children.length + 1}</td>
+    <td><input type="number" min="0" step="0.01" class="len"></td>
+    <td><input type="number" min="0" step="0.01" class="wid"></td>
+    <td><button type="button" aria-label="Remove room">✕</button></td>`;
+  row.querySelector("button").onclick = () => { row.remove(); renumber(); calc(); };
+  row.querySelectorAll("input").forEach(i => i.oninput = calc);
+  rooms.appendChild(row);
+}
+
+function renumber() {
+  [...rooms.children].forEach((r, i) => r.firstElementChild.textContent = i + 1);
+}
+
+function calc() {
+  const factor = fields[0].value === "m" ? SQFT_PER_SQM : 1;
+  let area = 0;
+  for (const r of rooms.children) {
+    area += (+r.querySelector(".len").value || 0) * (+r.querySelector(".wid").value || 0) * factor;
+  }
+  const withWaste = area * (1 + +fields[1].value / 100);
+  const box = +fields[2].value;
+  const boxes = box > 0 ? Math.ceil(withWaste / box) : 0;
+  document.getElementById("result").innerHTML =
+    `Floor area: ${area.toFixed(1)} sq ft<br>` +
+    `With ${fields[1].value}% waste: ${withWaste.toFixed(1)} sq ft<br>` +
+    `Boxes to buy: <strong>${boxes}</strong>`;
+}
+
+document.getElementById("add").onclick = addRoom;
+fields.forEach(f => f.oninput = calc);
+addRoom();
+calc();
+</script>
+</body>
+</html>
